@@ -133,8 +133,7 @@ def load_data():
     data["mapping"] = read("code_mapping.csv")
     for name in ("fee_summary", "compensation"):
         data[name]["statement_month"] = pd.to_datetime(data[name]["statement_month"])
-    for col in ("afp_code",):
-        data["exceptions"][col] = data["exceptions"][col].fillna("")
+    data["exceptions"]["afp_code"] = data["exceptions"]["afp_code"].fillna("")  # A7/A8 have no AFP code
     data["accuracy"] = json.loads((p / "mapping_accuracy.json").read_text())
     ref = pd.read_csv(config.REFERENCE_DIR / "afp_codes_sample.csv", dtype=str)
     data["families"] = dict(zip(ref["family_code"], ref["family_name"]))

@@ -8,7 +8,6 @@ from types import SimpleNamespace
 
 import pytest
 
-from src import config
 from src import memo
 
 

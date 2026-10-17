@@ -45,7 +45,7 @@ MONEY_COLS = [
     "credit_carried_in", "analyzed_fees", "hard_charges", "earnings_shortfall", "net_service_charge",
     "balance_required", "excess_balance", "opportunity_cost", "monthly_impact", "annualized_impact",
     "one_time_recovery", "dollar_impact", "annual_cost", "annual_cost_above_median",
-    "annual_cost_above_p75", "one_time_recovery", "annual_run_rate", "income_opportunity",
+    "annual_cost_above_p75", "annual_run_rate", "income_opportunity",
 ]
 
 

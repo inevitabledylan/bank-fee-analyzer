@@ -160,3 +160,10 @@ def test_savings_summary_ties_to_exceptions(results):
     assert total["annual_run_rate"] == pytest.approx(run_rate)
     assert total["one_time_recovery"] == pytest.approx(exc["one_time_recovery"].sum())
     assert total["findings"] == len(exc)
+
+
+def test_engine_app_and_memo_never_read_the_answer_key():
+    """Detection must come from the data alone - only the generator, tests, and accuracy step use the key."""
+    for path in ("src/analyze.py", "src/memo.py", "app/streamlit_app.py"):
+        source = (config.PROJECT_ROOT / path).read_text()
+        assert "_answer_key" not in source and "_mapping_key" not in source, path

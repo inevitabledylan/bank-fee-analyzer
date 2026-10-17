@@ -81,7 +81,7 @@ def describe_context(row):
 def fuzzy_match(description, reference):
     """Best AFP description match by token-set similarity. Returns (code, score 0-100)."""
     choices = dict(zip(reference["afp_code"], reference["afp_description"]))
-    best_description, score, code = process.extractOne(
+    _description, score, code = process.extractOne(
         description, choices, scorer=fuzz.token_set_ratio, processor=utils.default_process)
     return code, float(score)
 
@@ -241,11 +241,10 @@ def map_all(descriptions=None, reference=None, cache_path=CACHE_FILE, client="au
     ref_desc = dict(zip(reference["afp_code"], reference["afp_description"]))
     client = make_client() if client == "auto" else client
     cache = load_cache(cache_path)
-    rows, cache_changed = [], False
+    rows = []
     for row in descriptions.itertuples():
         out, changed = map_one(row, reference, ref_desc, cache, client)
         rows.append(out)
-        cache_changed = cache_changed or changed
         if changed:
             save_cache(cache, cache_path)  # save as we go so a crash loses nothing
     return pd.DataFrame(rows)
