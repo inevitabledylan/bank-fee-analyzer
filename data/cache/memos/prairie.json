@@ -1,0 +1,192 @@
+{
+  "bank": "Prairie National Bank",
+  "model": "claude-haiku-5-5",
+  "generated_at": "2026-10-17 17:10 UTC",
+  "summary_hash": "2f41c8ce9ffc854a",
+  "summary": {
+    "company": "Heartland Fabrication Co. (fictional)",
+    "bank": "Prairie National Bank",
+    "period": "Oct 2025 - Sep 2026 (12 months of account analysis statements)",
+    "relationship": {
+      "accounts": 12,
+      "average_collected_balance": "$4,134,808",
+      "average_balance_required_to_offset_fees": "$4,013,855",
+      "annual_fees": "$110,260",
+      "annual_earnings_credit": "$113,595",
+      "annual_net_cash_charges": "$2,403",
+      "ecr": "2.75%",
+      "reserve_haircut": "0%",
+      "day_basis": 365
+    },
+    "totals": {
+      "one_time_refunds": "$2,765.37",
+      "annual_fee_savings": "$10,832",
+      "annual_income_opportunity_from_idle_cash": "$0"
+    },
+    "findings": [
+      {
+        "id": "F003",
+        "issue": "Unannounced price increase",
+        "service": "OUTGOING DOMESTIC WIRE - ONLINE",
+        "afp_service": "Outgoing Domestic Wire - Online",
+        "account": "all accounts",
+        "months": "Jul 2026 - Sep 2026 (3 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$3,610",
+        "monthly": "$301",
+        "calculation": "Unit price rose from $11.290 to $12.760 (+13.0%) in Jul 2026. The bank's price schedule still shows $11.290. 205 items/month x $1.470 = $300.86/month; x 12 = $3,610.32/year.",
+        "suggested_action": "Ask the bank for the price-change notice; request rollback to the contracted price and a credit for months billed at the higher price."
+      },
+      {
+        "id": "F005",
+        "issue": "Unannounced price increase",
+        "service": "INCOMING DOMESTIC WIRE",
+        "afp_service": "Incoming Domestic Wire",
+        "account": "all accounts",
+        "months": "Jul 2026 - Sep 2026 (3 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$2,174",
+        "monthly": "$181",
+        "calculation": "Unit price rose from $11.780 to $13.870 (+17.7%) in Jul 2026. The bank's price schedule still shows $11.780. 87 items/month x $2.090 = $181.13/month; x 12 = $2,173.60/year.",
+        "suggested_action": "Ask the bank for the price-change notice; request rollback to the contracted price and a credit for months billed at the higher price."
+      },
+      {
+        "id": "F006",
+        "issue": "Duplicate charge",
+        "service": "OUTGOING DOMESTIC WIRE - ONLINE",
+        "afp_service": "Outgoing Domestic Wire - Online",
+        "account": "PNB-0003",
+        "months": "Nov 2025",
+        "type": "One-time recovery",
+        "one_time_refund": "$2,111.23",
+        "calculation": "OUTGOING DOMESTIC WIRE - ONLINE on PNB-0003 billed 2 times in Nov 2025: 187 x $11.290 = $2,111.23 each. Refund = 1 x $2,111.23 = $2,111.23.",
+        "suggested_action": "Request a refund of the duplicate charge and ask the bank to confirm the billing fix."
+      },
+      {
+        "id": "F007",
+        "issue": "Above-benchmark pricing",
+        "service": "ACH FILE TRANSMISSION",
+        "afp_service": "ACH File Transmission",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$1,456",
+        "monthly": "$121",
+        "calculation": "Unit price $19.000 vs illustrative p75 $15.000 (median $10.000; 1.9x median). 364 items/year x $4.000 = $1,456.00/year to reach p75 ($3,276.00 to reach median).",
+        "suggested_action": "Negotiate the price to at most $15.00 (benchmark p75); use the median $10.00 as the target."
+      },
+      {
+        "id": "F009",
+        "issue": "Unannounced price increase",
+        "service": "BAI PRIOR DAY DETAIL ITEM",
+        "afp_service": "BAI Prior-Day Detail Item",
+        "account": "all accounts",
+        "months": "Jul 2026 - Sep 2026 (3 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$965",
+        "monthly": "$80",
+        "calculation": "Unit price rose from $0.066 to $0.077 (+16.7%) in Jul 2026. The bank's price schedule still shows $0.066. 7,314 items/month x $0.011 = $80.45/month; x 12 = $965.45/year.",
+        "suggested_action": "Ask the bank for the price-change notice; request rollback to the contracted price and a credit for months billed at the higher price."
+      },
+      {
+        "id": "F010",
+        "issue": "Billing for unused service",
+        "service": "POSITIVE PAY MAINTENANCE",
+        "afp_service": "Positive Pay Maintenance",
+        "account": "PNB-0007",
+        "months": "Mar 2026 - Sep 2026 (7 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$889",
+        "monthly": "$74",
+        "calculation": "POSITIVE PAY MAINTENANCE billed on PNB-0007 for 7 months (Mar 2026 - Sep 2026) with zero related activity (AFP 150120). $475.66 billed while unused; current charge $74.10/month x 12 = $889.20/year.",
+        "suggested_action": "Cancel the module (or close the account if it is no longer needed) and ask for a credit of fees billed while it was unused."
+      },
+      {
+        "id": "F014",
+        "issue": "Unannounced price increase",
+        "service": "POSITIVE PAY MAINTENANCE",
+        "afp_service": "Positive Pay Maintenance",
+        "account": "all accounts",
+        "months": "Jul 2026 - Sep 2026 (3 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$646",
+        "monthly": "$54",
+        "calculation": "Unit price rose from $63.340 to $74.100 (+17.0%) in Jul 2026. The bank's price schedule still shows $63.340. 5 items/month x $10.760 = $53.80/month; x 12 = $645.60/year.",
+        "suggested_action": "Ask the bank for the price-change notice; request rollback to the contracted price and a credit for months billed at the higher price."
+      },
+      {
+        "id": "F016",
+        "issue": "Tier pricing misapplied",
+        "service": "ACH ORIGINATED CREDIT ITEM",
+        "afp_service": "ACH Originated Credit",
+        "account": "all accounts",
+        "months": "Dec 2025 - Feb 2026 (3 months)",
+        "type": "One-time recovery",
+        "one_time_refund": "$597.14",
+        "calculation": "Dec 2025: 5,605 items qualify for Tier 2 at $0.075 but billed $0.110 ($196.18 over); Jan 2026: 5,655 items qualify for Tier 2 at $0.075 but billed $0.110 ($197.92 over); Feb 2026: 5,801 items qualify for Tier 2 at $0.075 but billed $0.110 ($203.04 over). Total overbilled $597.14.",
+        "suggested_action": "Request a refund of the tier difference and ask the bank to correct its tier setup."
+      },
+      {
+        "id": "F017",
+        "issue": "Unannounced price increase",
+        "service": "ACH RECEIVED ITEM",
+        "afp_service": "ACH Received Item",
+        "account": "all accounts",
+        "months": "Jul 2026 - Sep 2026 (3 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$548",
+        "monthly": "$46",
+        "calculation": "Unit price rose from $0.098 to $0.113 (+15.3%) in Jul 2026. The bank's price schedule still shows $0.098. 3,045 items/month x $0.015 = $45.67/month; x 12 = $548.04/year.",
+        "suggested_action": "Ask the bank for the price-change notice; request rollback to the contracted price and a credit for months billed at the higher price."
+      },
+      {
+        "id": "F020",
+        "issue": "Unannounced price increase",
+        "service": "ZBA SUB ACCOUNT MAINTENANCE",
+        "afp_service": "ZBA Sub Account Maintenance",
+        "account": "all accounts",
+        "months": "Jul 2026 - Sep 2026 (3 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$400",
+        "monthly": "$33",
+        "calculation": "Unit price rose from $20.950 to $24.650 (+17.7%) in Jul 2026. The bank's price schedule still shows $20.950. 9 items/month x $3.700 = $33.30/month; x 12 = $399.60/year.",
+        "suggested_action": "Ask the bank for the price-change notice; request rollback to the contracted price and a credit for months billed at the higher price."
+      },
+      {
+        "id": "F022",
+        "issue": "Above-benchmark pricing",
+        "service": "STOP PAYMENT",
+        "afp_service": "Stop Payment",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (11 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$144",
+        "monthly": "$12",
+        "calculation": "Unit price $36.000 vs illustrative p75 $32.000 (median $25.000; 1.4x median). 36 items/year x $4.000 = $144.00/year to reach p75 ($396.00 to reach median).",
+        "suggested_action": "Negotiate the price to at most $32.00 (benchmark p75); use the median $25.00 as the target."
+      },
+      {
+        "id": "F024",
+        "issue": "Duplicate charge",
+        "service": "ACH FILE TRANSMISSION",
+        "afp_service": "ACH File Transmission",
+        "account": "PNB-0011",
+        "months": "May 2026",
+        "type": "One-time recovery",
+        "one_time_refund": "$57.00",
+        "calculation": "ACH FILE TRANSMISSION on PNB-0011 billed 2 times in May 2026: 3 x $19.000 = $57.00 each. Refund = 1 x $57.00 = $57.00.",
+        "suggested_action": "Request a refund of the duplicate charge and ask the bank to confirm the billing fix."
+      }
+    ],
+    "notes": [
+      "Benchmark prices are illustrative, not market survey data.",
+      "Idle-cash income opportunity is investment income, not a fee saving - keep it separate.",
+      "One-time refunds are past overcharges; annual savings are going forward."
+    ]
+  },
+  "memo_markdown": "# Negotiation Memo: Prairie National Bank Account Analysis Review\n\n**To:** Treasurer\n**From:** Treasury Analyst\n**Re:** Fee findings and negotiation asks, Oct 2025 to Sep 2026\n\n## Relationship overview\n\nAcross 12 accounts, average collected balance is $4,134,808, against $4,013,855 required to offset fees. Annual fees are $110,260 and annual earnings credit is $113,595 (ECR 2.75%), leaving net cash charges of $2,403. Idle-cash income opportunity is $0. That is investment income, not a fee saving, so it is kept separate below.\n\nFindings total $2,765.37 in one-time refunds (past overcharges) and $10,832 in annual fee savings (going forward).\n\n## Top issues\n\n- **Unannounced price increases (Jul 2026):** Six services rose in July while the bank's price schedule still shows the old prices. The largest are Outgoing Domestic Wire - Online ($11.290 to $12.760, $3,610/year) and Incoming Domestic Wire ($11.780 to $13.870, $2,174/year). The other four are BAI Prior-Day Detail Item ($965/year), Positive Pay Maintenance ($646/year), ACH Received Item ($548/year), and ZBA Sub Account Maintenance ($400/year).\n- **Duplicate charges (one-time):** Outgoing Domestic Wire - Online on PNB-0003 was billed twice in Nov 2025 ($2,111.23 refund). ACH File Transmission on PNB-0011 was billed twice in May 2026 ($57.00 refund).\n- **Tier pricing misapplied (one-time):** ACH Originated Credit was billed at $0.110 instead of the Tier 2 rate of $0.075 for Dec 2025 to Feb 2026 ($597.14 refund).\n- **Unused service billed:** Positive Pay Maintenance on PNB-0007 was billed for 7 months with no related activity. $475.66 was billed while unused, and the ongoing charge is $889/year.\n- **Above-benchmark pricing:** ACH File Transmission is at $19.000 and Stop Payment at $36.000. Benchmarks are illustrative, not market survey data. Reaching the illustrative p75 would save $1,456/year on ACH and $144/year on Stop Payment.\n\n## Specific asks\n\n1. Refund $2,111.23 (PNB-0003 duplicate wire) and $57.00 (PNB-0011 duplicate ACH file), and confirm the billing fix in writing.\n2. Refund the $597.14 ACH Originated Credit tier difference and correct the tier setup.\n3. Provide the July 2026 price-change notices, roll back the six services to contracted prices, and credit the Jul to Sep 2026 overbilling.\n4. Cancel Positive Pay Maintenance on PNB-0007 (or close the account if it is no longer needed) and credit the $475.66 billed while unused.\n5. Reprice ACH File Transmission to no more than $15.00 and Stop Payment to no more than $32.00.\n\n## Fallback positions\n\n- If the bank will not roll back all six price increases, prioritize the two wire increases ($3,610 and $2,174/year).\n- Accept the p75 price ($15.00 ACH file, $32.00 Stop Payment) instead of the median target ($10.00 and $25.00).\n- If the bank refuses cash refunds, accept fee credits equal to the full $2,765.37, but not less.\n- If PNB-0007 still needs Positive Pay, keep the module at minimum and insist on the $475.66 credit.\n\n## Suggested next step and timing\n\nSend the findings to the relationship manager this week. Request the July 2026 price-change notices and written billing corrections first, since they confirm the overcharges before any repricing discussion. Hold the one-time refunds and the annual savings in separate columns in the negotiation, and keep idle-cash income out of the fee totals.",
+  "figure_check": {
+    "checked": 43,
+    "mismatches": []
+  }
+}

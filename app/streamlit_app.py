@@ -8,6 +8,7 @@ data/cache/. It never calls an API on its own and never reads the answer key.
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -17,7 +18,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # so "src" imports work
-from src import analyze, config  # noqa: E402
+from src import analyze, config, memo  # noqa: E402
 
 st.set_page_config(page_title="Bank Fee Analyzer", page_icon="🏦", layout="wide")
 
@@ -499,14 +500,54 @@ def mapping_page():
             "Confidence below 0.70 is flagged for review.")
 
 
+def memo_for_display(text):
+    """Memo Markdown sized to sit inside the page: smaller headings, kept line breaks, and $ escaped
+    so Markdown does not read dollar amounts as math."""
+    text = re.sub(r"^## ", "#### ", text, flags=re.MULTILINE)
+    text = re.sub(r"^# ", "### ", text, flags=re.MULTILINE)
+    return text.replace("$", "\\$").replace("\n", "  \n")
+
+
 def memo_page():
     page_header("Negotiation Memo",
-                "A one-page negotiation brief for each bank, drafted by Claude from the findings on the other pages. "
-                "Every dollar figure is checked against the findings data.")
-    st.info("Memo generation is added in the next build phase (Phase 6).")
-    st.button("Regenerate memo", disabled=True,
-              help="Available once memo generation is built" if config.has_api_key()
-              else "Set ANTHROPIC_API_KEY in .env to enable regeneration")
+                "A one-page negotiation brief for each bank, drafted by Claude from that bank's findings. Claude "
+                "only sees a summary of the findings (never raw statements), and every dollar figure in the memo "
+                "is checked against the findings data.")
+    options = [b for b in BANK_ORDER if b in banks]
+    left, right = st.columns([2, 1])
+    bank = left.selectbox("Bank", options)
+    has_key = config.has_api_key()
+    right.markdown("<div style='height: 1.75rem'></div>", unsafe_allow_html=True)
+    if right.button("Regenerate memo", disabled=not has_key, width="stretch",
+                    help="Draft a fresh memo with Claude (about $0.002)" if has_key
+                    else "Set ANTHROPIC_API_KEY in .env to enable regeneration"):
+        with st.spinner(f"Drafting the {bank} memo..."):
+            try:
+                memo.generate_memo(bank, force=True)
+            except Exception as error:  # show the problem instead of crashing the page
+                st.error(f"Could not draft the memo: {type(error).__name__}: {error}")
+                return
+        st.rerun()
+
+    record, summary = memo.load_memo(bank), memo.build_summary(bank)
+    if record is None:
+        st.info("No memo has been drafted for this bank yet. Run `python -m src.memo` with an API key.")
+        return
+    caption(f"Drafted by {record['model']} on {record['generated_at']}.")
+    if memo.is_stale(record, summary):
+        st.warning("The findings have changed since this memo was drafted. Regenerate it to bring it up to date.")
+    check = memo.check_figures(record["memo_markdown"], summary)  # re-checked against today's findings
+    if check["mismatches"]:
+        st.warning(f"{len(check['mismatches'])} of {check['checked']} dollar figures in this memo do not appear "
+                   f"in the findings data: {', '.join(check['mismatches'])}. Verify them before sending.")
+    else:
+        st.success(f"All {check['checked']} dollar figures in this memo match the findings data.")
+    with st.container(border=True):
+        st.markdown(memo_for_display(record["memo_markdown"]))
+    st.download_button("Download memo (Markdown)", record["memo_markdown"].encode(),
+                       f"{memo.bank_slug(bank)}_negotiation_memo.md", "text/markdown")
+    with st.expander("What Claude was given (findings summary sent with the prompt)"):
+        st.json(record["summary"], expanded=False)
 
 
 {

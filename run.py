@@ -17,6 +17,7 @@ STEPS = [
     ("Generating synthetic statements", ["-m", "src.generate_data"]),
     ("Mapping fee descriptions to AFP codes", ["-m", "src.map_codes"]),
     ("Running the analysis", ["-m", "src.analyze"]),
+    ("Checking negotiation memos (redrafted only if findings changed)", ["-m", "src.memo"]),
 ]
 
 

@@ -1,0 +1,141 @@
+{
+  "bank": "Summit Commercial Bank",
+  "model": "claude-haiku-5-5",
+  "generated_at": "2026-10-17 17:11 UTC",
+  "summary_hash": "32de9bf9e408d4ac",
+  "summary": {
+    "company": "Heartland Fabrication Co. (fictional)",
+    "bank": "Summit Commercial Bank",
+    "period": "Oct 2025 - Sep 2026 (12 months of account analysis statements)",
+    "relationship": {
+      "accounts": 8,
+      "average_collected_balance": "$33,294,861",
+      "average_balance_required_to_offset_fees": "$4,655,330",
+      "annual_fees": "$106,093",
+      "annual_earnings_credit": "$759,298",
+      "annual_net_cash_charges": "$0",
+      "ecr": "2.50%",
+      "reserve_haircut": "10%",
+      "day_basis": 360
+    },
+    "totals": {
+      "one_time_refunds": "$130.00",
+      "annual_fee_savings": "$9,928",
+      "annual_income_opportunity_from_idle_cash": "$1,145,346"
+    },
+    "findings": [
+      {
+        "id": "F001",
+        "issue": "Excess idle balances",
+        "service": "Balances",
+        "afp_service": "",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Income opportunity",
+        "annual_income_opportunity": "$1,145,346",
+        "monthly": "$95,446",
+        "calculation": "12 months with excess balances. Average collected balance $33,294,861 vs $4,655,330 required to offset fees = $28,639,531 excess (616% over). Excess earns nothing beyond offsetting fees. $28,639,531 x 4.0% money market yield = $95,445.54/month; x 12 = $1,145,346.49/year.",
+        "suggested_action": "Move about $28,639,531 (keeping a cushion) to a money market fund or investment sweep, and keep balances near the $4,655,330 needed to offset fees."
+      },
+      {
+        "id": "F002",
+        "issue": "Above-benchmark pricing",
+        "service": "LockPoint Remittance Item",
+        "afp_service": "Wholesale Lockbox Item Processed",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$5,580",
+        "monthly": "$465",
+        "calculation": "Unit price $0.580 vs illustrative p75 $0.450 (median $0.350; 1.7x median). 42,922 items/year x $0.130 = $5,579.86/year to reach p75 ($9,872.06 to reach median).",
+        "suggested_action": "Negotiate the price to at most $0.45 (benchmark p75); use the median $0.35 as the target."
+      },
+      {
+        "id": "F004",
+        "issue": "Above-benchmark pricing",
+        "service": "SwiftLine Outgoing Domestic - Web",
+        "afp_service": "Outgoing Domestic Wire - Online",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$2,270",
+        "monthly": "$189",
+        "calculation": "Unit price $30.000 vs illustrative p75 $20.000 (median $15.000; 2.0x median). 227 items/year x $10.000 = $2,270.00/year to reach p75 ($3,405.00 to reach median).",
+        "suggested_action": "Negotiate the price to at most $20.00 (benchmark p75); use the median $15.00 as the target."
+      },
+      {
+        "id": "F011",
+        "issue": "Above-benchmark pricing",
+        "service": "SmartVault Item Capture",
+        "afp_service": "Lockbox Image Capture",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$858",
+        "monthly": "$72",
+        "calculation": "Unit price $0.100 vs illustrative p75 $0.080 (median $0.060; 1.7x median). 42,922 items/year x $0.020 = $858.44/year to reach p75 ($1,716.88 to reach median).",
+        "suggested_action": "Negotiate the price to at most $0.08 (benchmark p75); use the median $0.06 as the target."
+      },
+      {
+        "id": "F013",
+        "issue": "Above-benchmark pricing",
+        "service": "PayStream Inbound Item",
+        "afp_service": "ACH Received Item",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$680",
+        "monthly": "$57",
+        "calculation": "Unit price $0.180 vs illustrative p75 $0.140 (median $0.100; 1.8x median). 17,005 items/year x $0.040 = $680.20/year to reach p75 ($1,360.40 to reach median).",
+        "suggested_action": "Negotiate the price to at most $0.14 (benchmark p75); use the median $0.10 as the target."
+      },
+      {
+        "id": "F018",
+        "issue": "Above-benchmark pricing",
+        "service": "InfoLink Portal Access - Monthly",
+        "afp_service": "Online Banking Monthly Base",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$540",
+        "monthly": "$45",
+        "calculation": "Unit price $195.000 vs illustrative p75 $150.000 (median $100.000; 1.9x median). 12 items/year x $45.000 = $540.00/year to reach p75 ($1,140.00 to reach median).",
+        "suggested_action": "Negotiate the price to at most $150.00 (benchmark p75); use the median $100.00 as the target."
+      },
+      {
+        "id": "F023",
+        "issue": "Billing math error",
+        "service": "LockPoint Remittance Item",
+        "afp_service": "Wholesale Lockbox Item Processed",
+        "account": "SCB-0001",
+        "months": "Feb 2026",
+        "type": "One-time recovery",
+        "one_time_refund": "$100.00",
+        "calculation": "Feb 2026: 1,410 x $0.580 = $817.80, but the statement shows $917.80 (overbilled by $100.00).",
+        "suggested_action": "Request a refund of the overbilled amount."
+      },
+      {
+        "id": "F025",
+        "issue": "Billing math error",
+        "service": "SwiftLine Outgoing Domestic - Web",
+        "afp_service": "Outgoing Domestic Wire - Online",
+        "account": "SCB-0004",
+        "months": "Jun 2026",
+        "type": "One-time recovery",
+        "one_time_refund": "$30.00",
+        "calculation": "Jun 2026: 16 x $30.000 = $480.00, but the statement shows $510.00 (overbilled by $30.00).",
+        "suggested_action": "Request a refund of the overbilled amount."
+      }
+    ],
+    "notes": [
+      "Benchmark prices are illustrative, not market survey data.",
+      "Idle-cash income opportunity is investment income, not a fee saving - keep it separate.",
+      "One-time refunds are past overcharges; annual savings are going forward."
+    ]
+  },
+  "memo_markdown": "# Summit Commercial Bank Negotiation Memo\n\n**To:** Treasurer, Heartland Fabrication Co.\n**From:** Senior Treasury Analyst\n**Re:** Summit Commercial Bank fee recovery, pricing, and idle cash (Oct 2025 to Sep 2026)\n\n## Relationship overview\nWe hold eight accounts with an average collected balance of $33,294,861. Annual fees are $106,093, offset by $759,298 in earnings credit at a 2.50% ECR, so net cash charges are $0. Only $4,655,330 is needed to offset fees, which leaves $28,639,531 of excess balance (616% over the requirement). That excess earns nothing beyond fee offset, so it is our main lever.\n\n## Top issues\n1. **Billing math errors:** Two overbillings, for one-time refunds totaling $130.00.\n2. **Above-benchmark pricing:** Five services are priced above the illustrative p75 benchmark, worth $9,928 in annual fee savings going forward.\n3. **Idle balances:** $1,145,346 annual income opportunity. This is investment income, not a fee saving, and we report it separately.\n\nBenchmark prices are illustrative, not market survey data.\n\n## Specific asks\n- **Refund (one-time):** $100.00 overbilled on LockPoint Remittance Item, Feb 2026 (account SCB-0001).\n- **Refund (one-time):** $30.00 overbilled on SwiftLine Outgoing Domestic Web, Jun 2026 (account SCB-0004).\n- **Price change (annual):** LockPoint Remittance Item to $0.45 per item (target $0.35), saving $5,580/year.\n- **Price change (annual):** SwiftLine Outgoing Domestic Web to $20.00 (target $15.00), saving $2,270/year.\n- **Price change (annual):** SmartVault Item Capture to $0.08 (target $0.06), saving $858/year.\n- **Price change (annual):** PayStream Inbound Item to $0.14 (target $0.10), saving $680/year.\n- **Price change (annual):** InfoLink Portal Access Monthly to $150.00 (target $100.00), saving $540/year.\n- **Idle cash (separate):** Ask Summit to set up a sweep or money market option for the excess balance, keeping roughly $4,655,330 to offset fees.\n\n## Fallback positions\n- **Pricing:** If Summit rejects the median targets, accept the p75 ceilings above. Those still deliver the full $9,928 in annual fee savings.\n- **Refunds:** The two refunds ($130.00 total) are not negotiable. Insist on them even if pricing talks stall.\n- **Idle cash:** If Summit cannot offer a sweep, we keep a cushion above $4,655,330 and move the remainder into a money market fund ourselves. The $1,145,346 estimate assumes a 4.0% money market yield, so treat it as an estimate.\n\n## Suggested next step and timing\nSend the two refund claims in writing now, since they are documented overbillings. Then present the five price changes at the p75 ceilings as the opening position, with the median as our target. Schedule a separate call on the sweep. Keep refunds, fee savings, and idle-cash income in separate buckets in all correspondence.",
+  "figure_check": {
+    "checked": 31,
+    "mismatches": []
+  }
+}

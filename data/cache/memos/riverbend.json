@@ -1,0 +1,104 @@
+{
+  "bank": "Riverbend Trust Company",
+  "model": "claude-haiku-5-5",
+  "generated_at": "2026-10-17 17:10 UTC",
+  "summary_hash": "4be2caaafcd8fa7b",
+  "summary": {
+    "company": "Heartland Fabrication Co. (fictional)",
+    "bank": "Riverbend Trust Company",
+    "period": "Oct 2025 - Sep 2026 (12 months of account analysis statements)",
+    "relationship": {
+      "accounts": 5,
+      "average_collected_balance": "$767,150",
+      "average_balance_required_to_offset_fees": "$845,185",
+      "annual_fees": "$17,370",
+      "annual_earnings_credit": "$15,313",
+      "annual_net_cash_charges": "$2,336",
+      "ecr": "2.25%, then 1.75% from Apr 2026",
+      "reserve_haircut": "0%",
+      "day_basis": 365
+    },
+    "totals": {
+      "one_time_refunds": "$0.00",
+      "annual_fee_savings": "$3,179",
+      "annual_income_opportunity_from_idle_cash": "$0"
+    },
+    "findings": [
+      {
+        "id": "F008",
+        "issue": "Billing for unused service",
+        "service": "POS PAY MAINT",
+        "afp_service": "Positive Pay Maintenance",
+        "account": "RTC-0005",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$1,005",
+        "monthly": "$84",
+        "calculation": "POS PAY MAINT billed on RTC-0005 for 12 months (Oct 2025 - Sep 2026) with zero related activity (AFP 150120). $1,005.12 billed while unused; current charge $83.76/month x 12 = $1,005.12/year.",
+        "suggested_action": "Cancel the module (or close the account if it is no longer needed) and ask for a credit of fees billed while it was unused."
+      },
+      {
+        "id": "F012",
+        "issue": "Billing for unused service",
+        "service": "INTRADAY RPT MOD",
+        "afp_service": "Intraday Reporting Module",
+        "account": "RTC-0004",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$780",
+        "monthly": "$65",
+        "calculation": "INTRADAY RPT MOD billed on RTC-0004 for 12 months (Oct 2025 - Sep 2026) with zero related activity (AFP 400011). $780.00 billed while unused; current charge $65.00/month x 12 = $780.00/year.",
+        "suggested_action": "Cancel the module (or close the account if it is no longer needed) and ask for a credit of fees billed while it was unused."
+      },
+      {
+        "id": "F015",
+        "issue": "Above-benchmark pricing",
+        "service": "ACCT MAINT",
+        "afp_service": "Account Maintenance",
+        "account": "all accounts",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$600",
+        "monthly": "$50",
+        "calculation": "Unit price $45.000 vs illustrative p75 $35.000 (median $25.000; 1.8x median). 60 items/year x $10.000 = $600.00/year to reach p75 ($1,200.00 to reach median).",
+        "suggested_action": "Negotiate the price to at most $35.00 (benchmark p75); use the median $25.00 as the target."
+      },
+      {
+        "id": "F019",
+        "issue": "Billing for unused service",
+        "service": "ACH MOD MAINT",
+        "afp_service": "ACH Module Maintenance",
+        "account": "RTC-0005",
+        "months": "Oct 2025 - Sep 2026 (12 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$438",
+        "monthly": "$37",
+        "calculation": "ACH MOD MAINT billed on RTC-0005 for 12 months (Oct 2025 - Sep 2026) with zero related activity (AFP 250100, 250101, 250120, 250201, 250302). $438.36 billed while unused; current charge $36.53/month x 12 = $438.36/year.",
+        "suggested_action": "Cancel the module (or close the account if it is no longer needed) and ask for a credit of fees billed while it was unused."
+      },
+      {
+        "id": "F021",
+        "issue": "ECR cut created cash fees",
+        "service": "Earnings credit",
+        "afp_service": "",
+        "account": "all accounts",
+        "months": "Apr 2026 - Sep 2026 (6 months)",
+        "type": "Annual run-rate",
+        "annual_savings": "$355",
+        "monthly": "$30",
+        "calculation": "ECR fell from 2.25% to 1.75% in Apr 2026. Average month since: analyzed fees $1,396.41 ($1,161.12 after removing $235.29/month counted in other findings) vs earnings allowance $1,131.54. Cash fees caused by the cut: $29.59/month (capped at the $323.30/month of credit lost to the lower rate).",
+        "suggested_action": "Ask the bank to restore the ECR to 2.25% or set an ECR floor; otherwise cut services or move enough balance to cover fees."
+      }
+    ],
+    "notes": [
+      "Benchmark prices are illustrative, not market survey data.",
+      "Idle-cash income opportunity is investment income, not a fee saving - keep it separate.",
+      "One-time refunds are past overcharges; annual savings are going forward."
+    ]
+  },
+  "memo_markdown": "# Riverbend Trust Fee Negotiation: Heartland Fabrication Co.\n\n**To:** Treasurer\n**From:** Senior Treasury Analyst\n**Re:** Riverbend Trust account analysis review, Oct 2025 to Sep 2026\n\n## Relationship overview\n\nFive accounts average $767,150 in collected balances, below the $845,185 needed to offset fees. Annual fees are $17,370 against $15,313 in earnings credit, leaving $2,336 in net cash charges. The ECR was 2.25% and dropped to 1.75% in April 2026. The reserve haircut is 0%.\n\n## Top issues\n\n1. **Billing for unused services.** Three modules were billed with no related activity:\n   - Positive Pay Maintenance on RTC-0005: $1,005.12 billed while unused.\n   - Intraday Reporting Module on RTC-0004: $780.00 billed while unused.\n   - ACH Module Maintenance on RTC-0005: $438.36 billed while unused.\n2. **Above-benchmark Account Maintenance.** The unit price is $45.00. Against illustrative benchmarks, the p75 is $35.00 and the median is $25.00. Reaching p75 saves $600 a year.\n3. **ECR cut created cash fees.** Since April 2026, the rate cut has produced $29.59 a month in cash fees, or $355 a year.\n\nSavings are kept separate from refunds:\n- **Annual fee savings (going forward): $3,179** across these findings.\n- **One-time refunds (past overcharges): $0.00** in the summary totals. The credit requests below are not yet reflected in that figure.\n- **Idle-cash income opportunity: $0.** This is investment income, not a fee saving, and is excluded from the savings above.\n\nBenchmark prices are illustrative, not market survey data.\n\n## Specific asks\n\n- Cancel Positive Pay Maintenance on RTC-0005 (or close the account if no longer needed) and credit the $1,005.12 billed while unused.\n- Cancel the Intraday Reporting Module on RTC-0004 and credit the $780.00 billed while unused.\n- Cancel ACH Module Maintenance on RTC-0005 and credit the $438.36 billed while unused.\n- Reprice Account Maintenance to no more than $35.00 per item, with $25.00 as the target.\n- Restore the ECR to 2.25%, or set an ECR floor.\n\n## Fallback positions\n\n- **If the bank refuses the past credits:** accept the three cancellations effective immediately and forgo the retroactive credits. Keep the savings going forward.\n- **If the bank won't reach $25.00:** accept $35.00, the p75 level, which is worth $600 a year.\n- **If the bank won't restore the ECR:** accept an ECR floor, or move enough balance toward the $845,185 offset level to cover the cash fees.\n\n## Suggested next step and timing\n\nApprove these asks, then send them to the Riverbend relationship manager in writing. Request a written response before the next analysis statement cycle. Before closing RTC-0005, confirm that account is no longer needed, since two of the three cancellations depend on it.",
+  "figure_check": {
+    "checked": 26,
+    "mismatches": []
+  }
+}
