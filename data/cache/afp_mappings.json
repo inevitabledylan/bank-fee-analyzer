@@ -1,0 +1,98 @@
+{
+  "Summit Commercial Bank || Deposit Item - Other Bank Drawn": {
+    "afp_code": "100224",
+    "afp_description": "Deposited Item Transit",
+    "confidence": 0.85,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "A deposit item drawn on another bank is a transit item deposited into the account, billed per item at a low unit price on a high volume, which matches Deposited Item Transit."
+  },
+  "Summit Commercial Bank || Deposit Item - Summit Drawn": {
+    "afp_code": "100220",
+    "afp_description": "Deposited Item On-Us",
+    "confidence": 0.8,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "Summit Drawn items deposited into an account at the same bank are on-us items, billed per item at a low unit price with a volume count consistent with item-level processing."
+  },
+  "Summit Commercial Bank || InfoLink Portal Access - Monthly": {
+    "afp_code": "400000",
+    "afp_description": "Online Banking Monthly Base",
+    "confidence": 0.72,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "InfoLink Portal Access billed monthly as a flat $195 charge per account is a recurring online banking platform fee, which maps to the Online Banking Monthly Base code, though the portal name is bank-specific and not explicitly online banking."
+  },
+  "Summit Commercial Bank || InfoLink Prior-Day Rpt Acct": {
+    "afp_code": "400011",
+    "afp_description": "BAI Prior-Day Detail Item",
+    "confidence": 0.6,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "InfoLink Prior-Day Report is a prior-day reporting service billed per reported item at a low unit price, which most closely matches BAI Prior-Day Detail Item, though the name is bank-specific and the exact per-item basis is not fully confirmed."
+  },
+  "Summit Commercial Bank || LockPoint Remittance Item": {
+    "afp_code": "050100",
+    "afp_description": "Wholesale Lockbox Item Processed",
+    "confidence": 0.85,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "LockPoint Remittance Item is billed on lockbox accounts at a per-item price of $0.58 with thousands of monthly items, matching the per-item lockbox processing fee rather than a monthly maintenance charge."
+  },
+  "Summit Commercial Bank || LockPoint Wholesale Box - Monthly": {
+    "afp_code": "050000",
+    "afp_description": "Wholesale Lockbox Maintenance",
+    "confidence": 0.92,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "The fee is a monthly charge for wholesale lockbox service on three lockbox accounts, matching the per-lockbox-per-month maintenance code rather than per-item processing fees."
+  },
+  "Summit Commercial Bank || PayStream Inbound Item": {
+    "afp_code": "250201",
+    "afp_description": "ACH Received Item",
+    "confidence": 0.7,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "PayStream Inbound Item billed on Customer ACH Collections at $0.18 per item with high monthly volume most likely represents received ACH entries, though the proprietary name is ambiguous and could relate to another inbound payment type."
+  },
+  "Summit Commercial Bank || PayStream Outbound Credit Txn": {
+    "afp_code": "250101",
+    "afp_description": "ACH Originated Credit",
+    "confidence": 0.72,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "PayStream Outbound Credit Txn at $0.135 per transaction with a volume of 43 items looks like a per-item outbound credit payment, which maps to ACH Originated Credit, though the proprietary PayStream name adds some ambiguity about the rail."
+  },
+  "Summit Commercial Bank || PayStream Service Base": {
+    "afp_code": "250000",
+    "afp_description": "ACH Module Maintenance",
+    "confidence": 0.6,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "PayStream Service Base is a flat monthly base charge on the ACH-related accounts (collections and refunds), which most closely matches ACH module maintenance, though the proprietary product name makes the mapping somewhat ambiguous."
+  },
+  "Summit Commercial Bank || SmartVault Item Capture": {
+    "afp_code": "050300",
+    "afp_description": "Lockbox Image Capture",
+    "confidence": 0.85,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "SmartVault Item Capture billed on lockbox accounts at $0.10 per item with roughly 3,600 monthly items points to per-item image capture of lockbox receipts, matching Lockbox Image Capture."
+  },
+  "Summit Commercial Bank || SwiftLine Outgoing Domestic - Web": {
+    "afp_code": "350100",
+    "afp_description": "Outgoing Domestic Wire - Online",
+    "confidence": 0.9,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "SwiftLine Outgoing Domestic via the web channel is an outgoing domestic wire initiated online, billed per item at $30 with a volume of 19 transactions consistent with per-wire counts."
+  },
+  "Summit Commercial Bank || eStatement Delivery": {
+    "afp_code": "010300",
+    "afp_description": "Electronic Statement",
+    "confidence": 0.92,
+    "model": "claude-haiku-5-5",
+    "prompt_version": 2,
+    "reasoning": "eStatement Delivery matches the Electronic Statement service billed per account per month, and the monthly volume of 8 across multiple accounts fits an account-level charge rather than per-item counts."
+  }
+}

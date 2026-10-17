@@ -28,5 +28,9 @@ These were agreed during Phase 0 kickoff. Where this file and SPEC.md differ, th
 16. **Mapping truth file:** `data/raw/_mapping_key.csv` holds the true AFP code for every bank description. Like the answer key, only tests and the accuracy step may read it.
 17. **A7 is about analyzed fees vs. earnings allowance**, not total net service charge. Riverbend's FDIC fee is a hard charge every month, so its net service charge is never zero; the ECR-cut finding is the month-by-month gap between analyzed fees and earnings allowance.
 
+18. **No temperature setting for the AI mapping.** Claude Haiku 5.5 rejects custom temperature values, so consistency comes from low effort, a fixed JSON answer schema limited to the reference codes, and the answer cache (each description is only ever asked once).
+
+19. **The AI mapping prompt includes statement context** (beyond SPEC.md §3): the account names a fee is billed on, its typical unit price, and its typical bank-wide monthly volume. This is what a human analyst would check. With description only, 9 of 12 were correct; with context, 12 of 12.
+
 ## Out of scope unless asked
 - Parquet (CSV only), Power BI (Phase 9), SPEC.md §8 stretch goals.

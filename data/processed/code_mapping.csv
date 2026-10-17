@@ -1,0 +1,62 @@
+bank,bank_service_code,bank_description,afp_code_on_statement,mapped_afp_code,mapped_afp_description,method,fuzzy_score,confidence,reasoning,needs_review
+Prairie National Bank,PN1010,ZBA MASTER ACCOUNT MAINTENANCE,010020,010020,ZBA Master Account Maintenance,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1025,ZBA SUB ACCOUNT MAINTENANCE,010021,010021,ZBA Sub Account Maintenance,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1040,ACCOUNT MAINTENANCE,010000,010000,Account Maintenance,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1055,ELECTRONIC STATEMENT,010300,010300,Electronic Statement,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1070,RELATIONSHIP ANALYSIS STATEMENT,010411,010411,Relationship Analysis Statement,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1085,FDIC ASSESSMENT FEE,000230,000230,FDIC Assessment Fee,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1100,DEPOSITED ITEM ON-US,100220,100220,Deposited Item On-Us,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1115,DEPOSITED ITEM TRANSIT,100224,100224,Deposited Item Transit,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1130,CHECKS PAID,150120,150120,Checks Paid,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1145,STOP PAYMENT,150410,150410,Stop Payment,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1160,CHECK IMAGE CAPTURE,151351,151351,Check Image Capture,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1175,ARP PAID AND OUTSTANDING ITEM,200310,200310,ARP Paid and Outstanding Report Item,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1190,POSITIVE PAY MAINTENANCE,200010,200010,Positive Pay Maintenance,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1205,ACH MODULE MAINTENANCE,250000,250000,ACH Module Maintenance,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1220,ACH ORIGINATED CREDIT ITEM,250101,250101,ACH Originated Credit,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1235,ACH ORIGINATED ADDENDA,250120,250120,ACH Originated Addenda,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1250,ACH RECEIVED ITEM,250201,250201,ACH Received Item,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1265,ACH RETURN ITEM,250302,250302,ACH Return Item,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1280,ACH DEBIT BLOCK MAINTENANCE,251050,251050,ACH Debit Block/Filter Maintenance,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1295,ACH FILE TRANSMISSION,250501,250501,ACH File Transmission,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1310,WIRE MODULE MAINTENANCE,350000,350000,Wire Module Maintenance,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1325,OUTGOING DOMESTIC WIRE - ONLINE,350100,350100,Outgoing Domestic Wire - Online,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1340,INCOMING DOMESTIC WIRE,350300,350300,Incoming Domestic Wire,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1355,OUTGOING INTERNATIONAL WIRE,350400,350400,Outgoing International Wire,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1370,ONLINE BANKING MONTHLY BASE,400000,400000,Online Banking Monthly Base,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1385,BAI PRIOR DAY DETAIL ITEM,400011,400011,BAI Prior-Day Detail Item,provided,,1.0,AFP code provided by the bank,False
+Prairie National Bank,PN1400,INTRADAY REPORTING MODULE,400200,400200,Intraday Reporting Module,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-200,ACCT MAINT,010000,010000,Account Maintenance,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-207,ELEC STMT,010300,010300,Electronic Statement,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-214,REL ANLYS STMT,010411,010411,Relationship Analysis Statement,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-221,FDIC ASSMT,000230,000230,FDIC Assessment Fee,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-228,DEP ITM TRNST,100224,100224,Deposited Item Transit,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-235,CHKS PD,150120,150120,Checks Paid,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-242,CHK IMG CAPT,151351,151351,Check Image Capture,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-249,POS PAY MAINT,200010,200010,Positive Pay Maintenance,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-256,ACH MOD MAINT,250000,250000,ACH Module Maintenance,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-263,ACH ORIG CR ITM,250101,250101,ACH Originated Credit,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-270,ACH FILE TRANS,250501,250501,ACH File Transmission,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-277,OUT DOM WIRE ONL,350100,350100,Outgoing Domestic Wire - Online,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-284,INC DOM WIRE,350300,350300,Incoming Domestic Wire,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-291,OLB MO BASE,400000,400000,Online Banking Monthly Base,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-298,BAI PD DTL ITM,400011,400011,BAI Prior-Day Detail Item,provided,,1.0,AFP code provided by the bank,False
+Riverbend Trust Company,RB-305,INTRADAY RPT MOD,400200,400200,Intraday Reporting Module,provided,,1.0,AFP code provided by the bank,False
+Summit Commercial Bank,SC40100,Business Analyzed Checking - Monthly,010000,010000,Account Maintenance,provided,,1.0,AFP code provided by the bank,False
+Summit Commercial Bank,SC40213,eStatement Delivery,,010300,Electronic Statement,llm,71.7948717948718,0.92,"eStatement Delivery matches the Electronic Statement service billed per account per month, and the monthly volume of 8 across multiple accounts fits an account-level charge rather than per-item counts.",False
+Summit Commercial Bank,SC40326,Relationship Summary Statement,010411,010411,Relationship Analysis Statement,provided,,1.0,AFP code provided by the bank,False
+Summit Commercial Bank,SC40439,FDIC Insurance Recovery Fee,000230,000230,FDIC Assessment Fee,provided,,1.0,AFP code provided by the bank,False
+Summit Commercial Bank,SC40552,LockPoint Wholesale Box - Monthly,,050000,Wholesale Lockbox Maintenance,llm,63.333333333333336,0.92,"The fee is a monthly charge for wholesale lockbox service on three lockbox accounts, matching the per-lockbox-per-month maintenance code rather than per-item processing fees.",False
+Summit Commercial Bank,SC40665,LockPoint Remittance Item,,050100,Wholesale Lockbox Item Processed,llm,55.319148936170215,0.85,"LockPoint Remittance Item is billed on lockbox accounts at a per-item price of $0.58 with thousands of monthly items, matching the per-item lockbox processing fee rather than a monthly maintenance charge.",False
+Summit Commercial Bank,SC40778,SmartVault Item Capture,,050300,Lockbox Image Capture,llm,57.142857142857146,0.85,"SmartVault Item Capture billed on lockbox accounts at $0.10 per item with roughly 3,600 monthly items points to per-item image capture of lockbox receipts, matching Lockbox Image Capture.",False
+Summit Commercial Bank,SC40891,Deposit Item - Summit Drawn,,100220,Deposited Item On-Us,llm,80.85106382978724,0.8,"Summit Drawn items deposited into an account at the same bank are on-us items, billed per item at a low unit price with a volume count consistent with item-level processing.",False
+Summit Commercial Bank,SC41004,Deposit Item - Other Bank Drawn,,100224,Deposited Item Transit,llm,66.66666666666666,0.85,"A deposit item drawn on another bank is a transit item deposited into the account, billed per item at a low unit price on a high volume, which matches Deposited Item Transit.",False
+Summit Commercial Bank,SC41117,PayStream Service Base,,250000,ACH Module Maintenance,llm,46.808510638297875,0.6,"PayStream Service Base is a flat monthly base charge on the ACH-related accounts (collections and refunds), which most closely matches ACH module maintenance, though the proprietary product name makes the mapping somewhat ambiguous.",True
+Summit Commercial Bank,SC41230,PayStream Outbound Credit Txn,,250101,ACH Originated Credit,llm,48.0,0.72,"PayStream Outbound Credit Txn at $0.135 per transaction with a volume of 43 items looks like a per-item outbound credit payment, which maps to ACH Originated Credit, though the proprietary PayStream name adds some ambiguity about the rail.",False
+Summit Commercial Bank,SC41343,PayStream Inbound Item,,250201,ACH Received Item,llm,51.724137931034484,0.7,"PayStream Inbound Item billed on Customer ACH Collections at $0.18 per item with high monthly volume most likely represents received ACH entries, though the proprietary name is ambiguous and could relate to another inbound payment type.",False
+Summit Commercial Bank,SC41456,PayStream Return Handling,250302,250302,ACH Return Item,provided,,1.0,AFP code provided by the bank,False
+Summit Commercial Bank,SC41569,PayStream File Upload,250501,250501,ACH File Transmission,provided,,1.0,AFP code provided by the bank,False
+Summit Commercial Bank,SC41682,SwiftLine Outgoing Domestic - Web,,350100,Outgoing Domestic Wire - Online,llm,83.33333333333333,0.9,"SwiftLine Outgoing Domestic via the web channel is an outgoing domestic wire initiated online, billed per item at $30 with a volume of 19 transactions consistent with per-wire counts.",False
+Summit Commercial Bank,SC41795,SwiftLine Incoming Domestic,350300,350300,Incoming Domestic Wire,provided,,1.0,AFP code provided by the bank,False
+Summit Commercial Bank,SC41908,InfoLink Portal Access - Monthly,,400000,Online Banking Monthly Base,llm,52.63157894736842,0.72,"InfoLink Portal Access billed monthly as a flat $195 charge per account is a recurring online banking platform fee, which maps to the Online Banking Monthly Base code, though the portal name is bank-specific and not explicitly online banking.",False
+Summit Commercial Bank,SC42021,InfoLink Prior-Day Rpt Acct,,400011,BAI Prior-Day Detail Item,llm,61.53846153846154,0.6,"InfoLink Prior-Day Report is a prior-day reporting service billed per reported item at a low unit price, which most closely matches BAI Prior-Day Detail Item, though the name is bank-specific and the exact per-item basis is not fully confirmed.",True

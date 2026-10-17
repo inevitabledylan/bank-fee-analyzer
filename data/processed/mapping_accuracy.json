@@ -1,0 +1,17 @@
+{
+  "overall_accuracy": 1.0,
+  "descriptions": 61,
+  "accuracy_where_code_was_blank": 1.0,
+  "blank_code_descriptions": 12,
+  "needs_review": 2,
+  "by_method": {
+    "llm": {
+      "count": 12,
+      "accuracy": 1.0
+    },
+    "provided": {
+      "count": 49,
+      "accuracy": 1.0
+    }
+  }
+}
