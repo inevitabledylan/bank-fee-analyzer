@@ -2,6 +2,8 @@
 
 **An AI-assisted review of a year of bank account analysis statements: it finds overcharges, benchmarks prices, checks earnings credits, and drafts the negotiation memo.**
 
+**▶ [Open the live dashboard](https://bank-fee-analyzer-sinbbrau42siubj8nphcat.streamlit.app/)** (no sign-in needed)
+
 > All companies, banks, and data are fictional. Benchmark prices are illustrative, not market survey data.
 
 ## The business problem

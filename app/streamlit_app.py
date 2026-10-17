@@ -41,6 +41,10 @@ st.markdown("""
   div[data-testid="stMetric"] {background: #ffffff; border: 1px solid rgba(11,11,11,0.10);
       border-radius: 8px; padding: 12px 16px;}
   div[data-testid="stMetricLabel"] p {color: #52514e; font-size: 0.85rem;}
+  /* KPI values shrink with the screen instead of being cut off ("$233.…") on laptops */
+  div[data-testid="stMetricValue"] {font-size: clamp(1.3rem, 1.9vw, 2.1rem);}
+  div[data-testid="stMetricValue"] *, div[data-testid="stMetricLabel"] * {
+      overflow: visible !important; text-overflow: clip !important; white-space: normal !important;}
   .what-this-shows {color: #52514e; font-size: 0.95rem; border-left: 3px solid #c3c2b7;
       padding: 2px 0 2px 12px; margin: 0 0 1.2rem 0;}
   .footer {color: #898781; font-size: 0.8rem; border-top: 1px solid #e1e0d9;
@@ -64,6 +68,12 @@ def money(x, cents=False, compact=False):
     return f"{sign[0]}{text}{sign[1]}"
 
 
+def panel_title(text):
+    """Small-multiple titles: 'bank=Prairie National Bank' -> 'Prairie' (short, so panels never overlap)."""
+    name = text.split("=")[-1]
+    return name.split()[0] if name in BANK_COLORS else name
+
+
 def style(fig, height=380, legend=True):
     """Shared chart chrome: light surface, hairline grid, muted axes, legend on top."""
     fig.update_layout(
@@ -75,7 +85,7 @@ def style(fig, height=380, legend=True):
     )
     fig.update_xaxes(gridcolor=GRID, linecolor=AXIS, zeroline=False, tickfont=dict(color=MUTED))
     fig.update_yaxes(gridcolor=GRID, linecolor=AXIS, zeroline=False, tickfont=dict(color=MUTED))
-    fig.for_each_annotation(lambda a: a.update(text=a.text.split("=")[-1], font=dict(color=INK, size=13)))
+    fig.for_each_annotation(lambda a: a.update(text=panel_title(a.text), font=dict(color=INK, size=13)))
     return fig
 
 
@@ -194,11 +204,11 @@ def executive_summary():
         help="All service charges in the selected period")
     kpi(cols[1], "Earnings credit", money(comp["earnings_allowance"].sum(), compact=True), "non-cash, on balances",
         help="Credit the banks gave on balances: investable balance x ECR x days/basis")
-    kpi(cols[2], "Net cash charges", money(comp["net_service_charge"].sum(), compact=True), "fees paid in cash",
+    kpi(cols[2], "Cash charges", money(comp["net_service_charge"].sum(), compact=True), "fees paid in cash",
         help="Fees not covered by earnings credit, plus hard charges (e.g. FDIC at Riverbend)")
-    kpi(cols[3], "Fee savings found", f"{money(run_rate, compact=True)}/yr", f"plus {money(one_time)} in refunds",
+    kpi(cols[3], "Savings found", f"{money(run_rate, compact=True)}/yr", f"plus {money(one_time)} in refunds",
         help="Annual run-rate savings from pricing and unused services, plus one-time refunds of past errors")
-    kpi(cols[4], "Avg. excess balances", money(excess, compact=True), f"{money(income)}/yr income opportunity",
+    kpi(cols[4], "Excess cash", money(excess, compact=True), f"{money(income)}/yr income opportunity",
         help="Collected balance above what is needed to offset fees; income at the money market yield")
 
     st.subheader("Monthly analyzed fees vs. earnings allowance")
