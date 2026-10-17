@@ -1,0 +1,35 @@
+afp_code,family_code,family_name,afp_description,unit_basis,typical_ecr_eligible,notes
+000230,00,Balance and Compensation Information,FDIC Assessment Fee,Per $1000 avg balance,FALSE,Often a pass-through; treat as hard charge for one bank
+010000,01,General Account Services,Account Maintenance,Per account per month,TRUE,
+010020,01,General Account Services,ZBA Master Account Maintenance,Per account per month,TRUE,
+010021,01,General Account Services,ZBA Sub Account Maintenance,Per account per month,TRUE,
+010300,01,General Account Services,Electronic Statement,Per account per month,TRUE,
+010411,01,General Account Services,Relationship Analysis Statement,Per statement,TRUE,
+050000,05,Lockbox Services,Wholesale Lockbox Maintenance,Per lockbox per month,TRUE,Illustrative code
+050100,05,Lockbox Services,Wholesale Lockbox Item Processed,Per item,TRUE,Illustrative code
+050300,05,Lockbox Services,Lockbox Image Capture,Per item,TRUE,Illustrative code
+100000,10,Depository Services,Commercial Deposit Account Maintenance,Per account per month,TRUE,
+100010,10,Depository Services,Branch Deposited Coin and Currency,Per $100 deposited,TRUE,
+100220,10,Depository Services,Deposited Item On-Us,Per item,TRUE,
+100224,10,Depository Services,Deposited Item Transit,Per item,TRUE,
+150120,15,Paper Disbursement Services,Checks Paid,Per item,TRUE,
+150410,15,Paper Disbursement Services,Stop Payment,Per item,TRUE,
+151351,15,Paper Disbursement Services,Check Image Capture,Per item,TRUE,
+200010,20,Paper Disbursement Reconciliation,Positive Pay Maintenance,Per account per month,TRUE,Illustrative code
+200310,20,Paper Disbursement Reconciliation,ARP Paid and Outstanding Report Item,Per item,TRUE,
+250000,25,General ACH Services,ACH Module Maintenance,Per account per month,TRUE,
+250100,25,General ACH Services,ACH Originated Debit,Per item,TRUE,
+250101,25,General ACH Services,ACH Originated Credit,Per item,TRUE,
+250120,25,General ACH Services,ACH Originated Addenda,Per item,TRUE,
+250201,25,General ACH Services,ACH Received Item,Per item,TRUE,
+250302,25,General ACH Services,ACH Return Item,Per item,TRUE,
+250501,25,General ACH Services,ACH File Transmission,Per file,TRUE,
+251050,25,General ACH Services,ACH Debit Block/Filter Maintenance,Per account per month,TRUE,Illustrative code
+350100,35,Wire and Other Funds Transfer,Outgoing Domestic Wire - Online,Per item,TRUE,
+350300,35,Wire and Other Funds Transfer,Incoming Domestic Wire,Per item,TRUE,
+350400,35,Wire and Other Funds Transfer,Outgoing International Wire,Per item,TRUE,Illustrative code
+350000,35,Wire and Other Funds Transfer,Wire Module Maintenance,Per account per month,TRUE,Illustrative code
+400000,40,Information Services,Online Banking Monthly Base,Per account per month,TRUE,
+400011,40,Information Services,BAI Prior-Day Detail Item,Per item,TRUE,
+400200,40,Information Services,Intraday Reporting Module,Per account per month,TRUE,Illustrative code
+450020,45,Investment Services,Investment Sweep Fee,Per account per month,TRUE,
