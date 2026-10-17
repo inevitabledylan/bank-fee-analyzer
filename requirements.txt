@@ -1,8 +1,9 @@
-pandas>=2.2
-numpy>=1.26
-streamlit>=1.40
-plotly>=5.24
-rapidfuzz>=3.9
-anthropic>=0.40
-python-dotenv>=1.0
-pytest>=8.0
+# Exact versions this project was built and tested with (Python 3.12).
+pandas==3.0.6
+numpy==2.5.4
+streamlit==1.66.0
+plotly==7.1.0
+rapidfuzz==3.14.6
+anthropic==1.15.0
+python-dotenv==1.2.4
+pytest==9.1.1
