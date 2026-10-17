@@ -1,0 +1,13 @@
+rule,category,bank,findings,one_time_recovery,annual_run_rate,income_opportunity
+A1,Unannounced price increase,Prairie National Bank,6,0.0,8342.61,0.0
+A2,Above-benchmark pricing,Prairie National Bank,2,0.0,1600.0,0.0
+A2,Above-benchmark pricing,Riverbend Trust Company,1,0.0,600.0,0.0
+A2,Above-benchmark pricing,Summit Commercial Bank,5,0.0,9928.5,0.0
+A3,Billing for unused service,Prairie National Bank,1,0.0,889.2,0.0
+A3,Billing for unused service,Riverbend Trust Company,3,0.0,2223.48,0.0
+A4,Duplicate charge,Prairie National Bank,2,2168.23,0.0,0.0
+A5,Tier pricing misapplied,Prairie National Bank,1,597.14,0.0,0.0
+A6,Billing math error,Summit Commercial Bank,2,130.0,0.0,0.0
+A7,ECR cut created cash fees,Riverbend Trust Company,1,0.0,355.05,0.0
+A8,Excess idle balances,Summit Commercial Bank,1,0.0,0.0,1145346.49
+,TOTAL,All banks,25,2895.37,23938.84,1145346.49

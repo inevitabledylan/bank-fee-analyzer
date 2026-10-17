@@ -1,0 +1,62 @@
+bank,afp_code,afp_description,bank_description,unit_basis,unit_price,price_before_increase,p25,median,p75,position,annual_volume,annual_cost,annual_cost_above_median,annual_cost_above_p75,banks_offering,lowest_price_any_bank,lowest_price_bank
+Prairie National Bank,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,Per $1000 avg balance,0.092,0.092,0.06,0.09,0.12,Median to p75,51099.17,4701.12,102.2,0.0,3,0.079,Riverbend Trust Company
+Riverbend Trust Company,000230,FDIC Assessment Fee,FDIC ASSMT,Per $1000 avg balance,0.079,0.079,0.06,0.09,0.12,p25 to median,9454.8,746.93,0.0,0.0,3,0.079,Riverbend Trust Company
+Summit Commercial Bank,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,Per $1000 avg balance,0.103,0.103,0.06,0.09,0.12,Median to p75,419859.33,43245.51,5458.17,0.0,3,0.079,Riverbend Trust Company
+Prairie National Bank,010000,Account Maintenance,ACCOUNT MAINTENANCE,Per account per month,24.73,24.73,15.0,25.0,35.0,p25 to median,24.0,593.52,0.0,0.0,3,24.73,Prairie National Bank
+Riverbend Trust Company,010000,Account Maintenance,ACCT MAINT,Per account per month,45.0,45.0,15.0,25.0,35.0,Above p75,60.0,2700.0,1200.0,600.0,3,24.73,Prairie National Bank
+Summit Commercial Bank,010000,Account Maintenance,Business Analyzed Checking - Monthly,Per account per month,33.04,33.04,15.0,25.0,35.0,Median to p75,96.0,3171.84,771.84,0.0,3,24.73,Prairie National Bank
+Prairie National Bank,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,Per account per month,48.45,48.45,35.0,50.0,65.0,p25 to median,12.0,581.4,0.0,0.0,1,48.45,Prairie National Bank
+Prairie National Bank,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,Per account per month,24.65,20.95,15.0,25.0,35.0,p25 to median,108.0,2662.2,0.0,0.0,1,24.65,Prairie National Bank
+Prairie National Bank,010300,Electronic Statement,ELECTRONIC STATEMENT,Per account per month,9.14,9.14,5.0,10.0,15.0,p25 to median,144.0,1316.16,0.0,0.0,3,7.470000000000001,Riverbend Trust Company
+Riverbend Trust Company,010300,Electronic Statement,ELEC STMT,Per account per month,7.470000000000001,7.470000000000001,5.0,10.0,15.0,p25 to median,60.0,448.2,0.0,0.0,3,7.470000000000001,Riverbend Trust Company
+Summit Commercial Bank,010300,Electronic Statement,eStatement Delivery,Per account per month,13.5,13.5,5.0,10.0,15.0,Median to p75,96.0,1296.0,336.0,0.0,3,7.470000000000001,Riverbend Trust Company
+Prairie National Bank,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,Per statement,12.85,12.85,10.0,20.0,30.0,p25 to median,12.0,154.2,0.0,0.0,3,12.85,Prairie National Bank
+Riverbend Trust Company,010411,Relationship Analysis Statement,REL ANLYS STMT,Per statement,20.14,20.14,10.0,20.0,30.0,Median to p75,12.0,241.68,1.68,0.0,3,12.85,Prairie National Bank
+Summit Commercial Bank,010411,Relationship Analysis Statement,Relationship Summary Statement,Per statement,21.75,21.75,10.0,20.0,30.0,Median to p75,12.0,261.0,21.0,0.0,3,12.85,Prairie National Bank
+Summit Commercial Bank,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,Per lockbox per month,126.96999999999998,126.96999999999998,75.0,125.0,175.0,Median to p75,36.0,4570.92,70.92,0.0,1,126.96999999999998,Summit Commercial Bank
+Summit Commercial Bank,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,Per item,0.58,0.58,0.25,0.35,0.45,Above p75,42922.0,24894.76,9872.06,5579.86,1,0.58,Summit Commercial Bank
+Summit Commercial Bank,050300,Lockbox Image Capture,SmartVault Item Capture,Per item,0.1,0.1,0.04,0.06,0.08,Above p75,42922.0,4292.2,1716.88,858.44,1,0.1,Summit Commercial Bank
+Prairie National Bank,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,Per item,0.095,0.095,0.06,0.1,0.14,p25 to median,1404.0,133.38,0.0,0.0,2,0.095,Prairie National Bank
+Summit Commercial Bank,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,Per item,0.106,0.106,0.06,0.1,0.14,Median to p75,497.0,52.68,2.98,0.0,2,0.095,Prairie National Bank
+Prairie National Bank,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,Per item,0.116,0.116,0.08,0.12,0.16,p25 to median,10163.0,1178.91,0.0,0.0,3,0.116,Prairie National Bank
+Riverbend Trust Company,100224,Deposited Item Transit,DEP ITM TRNST,Per item,0.132,0.132,0.08,0.12,0.16,Median to p75,530.0,69.96,6.36,0.0,3,0.116,Prairie National Bank
+Summit Commercial Bank,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,Per item,0.145,0.145,0.08,0.12,0.16,Median to p75,2210.0,320.45,55.25,0.0,3,0.116,Prairie National Bank
+Prairie National Bank,150120,Checks Paid,CHECKS PAID,Per item,0.15,0.15,0.12,0.18,0.24,p25 to median,46729.0,7009.35,0.0,0.0,2,0.15,Prairie National Bank
+Riverbend Trust Company,150120,Checks Paid,CHKS PD,Per item,0.177,0.177,0.12,0.18,0.24,p25 to median,4444.0,786.59,0.0,0.0,2,0.15,Prairie National Bank
+Prairie National Bank,150410,Stop Payment,STOP PAYMENT,Per item,36.0,36.0,18.0,25.0,32.0,Above p75,36.0,1296.0,396.0,144.0,1,36.0,Prairie National Bank
+Prairie National Bank,151351,Check Image Capture,CHECK IMAGE CAPTURE,Per item,0.025999999999999995,0.025999999999999995,0.02,0.04,0.06,p25 to median,46729.0,1214.95,0.0,0.0,2,0.025999999999999995,Prairie National Bank
+Riverbend Trust Company,151351,Check Image Capture,CHK IMG CAPT,Per item,0.051,0.051,0.02,0.04,0.06,Median to p75,4444.0,226.64,48.88,0.0,2,0.025999999999999995,Prairie National Bank
+Prairie National Bank,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,Per account per month,74.1,63.34,50.0,75.0,100.0,p25 to median,72.0,5335.2,0.0,0.0,2,74.1,Prairie National Bank
+Riverbend Trust Company,200010,Positive Pay Maintenance,POS PAY MAINT,Per account per month,83.76,83.76,50.0,75.0,100.0,Median to p75,24.0,2010.24,210.24,0.0,2,74.1,Prairie National Bank
+Prairie National Bank,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,Per item,0.042,0.042,0.03,0.05,0.07,p25 to median,46729.0,1962.62,0.0,0.0,1,0.042,Prairie National Bank
+Prairie National Bank,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,Per account per month,40.51,40.51,25.0,40.0,55.0,Median to p75,60.0,2430.6,30.6,0.0,3,36.53,Riverbend Trust Company
+Riverbend Trust Company,250000,ACH Module Maintenance,ACH MOD MAINT,Per account per month,36.53,36.53,25.0,40.0,55.0,p25 to median,24.0,876.72,0.0,0.0,3,36.53,Riverbend Trust Company
+Summit Commercial Bank,250000,ACH Module Maintenance,PayStream Service Base,Per account per month,50.05,50.05,25.0,40.0,55.0,Median to p75,24.0,1201.2,241.2,0.0,3,36.53,Riverbend Trust Company
+Prairie National Bank,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,Per item,0.075,0.075,0.06,0.1,0.14,p25 to median,72778.0,5458.35,0.0,0.0,3,0.075,Prairie National Bank
+Riverbend Trust Company,250101,ACH Originated Credit,ACH ORIG CR ITM,Per item,0.12200000000000001,0.12200000000000001,0.06,0.1,0.14,Median to p75,743.0,90.65,16.35,0.0,3,0.075,Prairie National Bank
+Summit Commercial Bank,250101,ACH Originated Credit,PayStream Outbound Credit Txn,Per item,0.135,0.135,0.06,0.1,0.14,Median to p75,554.0,74.79,19.39,0.0,3,0.075,Prairie National Bank
+Prairie National Bank,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,Per item,0.018,0.018,0.01,0.02,0.03,p25 to median,20912.0,376.42,0.0,0.0,1,0.018,Prairie National Bank
+Prairie National Bank,250201,ACH Received Item,ACH RECEIVED ITEM,Per item,0.11299999999999999,0.098,0.06,0.1,0.14,Median to p75,36680.0,4144.84,476.84,0.0,2,0.11299999999999999,Prairie National Bank
+Summit Commercial Bank,250201,ACH Received Item,PayStream Inbound Item,Per item,0.18,0.18,0.06,0.1,0.14,Above p75,17005.0,3060.9,1360.4,680.2,2,0.11299999999999999,Prairie National Bank
+Prairie National Bank,250302,ACH Return Item,ACH RETURN ITEM,Per item,3.4,3.4,2.5,4.0,5.5,p25 to median,108.0,367.2,0.0,0.0,2,3.4,Prairie National Bank
+Summit Commercial Bank,250302,ACH Return Item,PayStream Return Handling,Per item,4.44,4.44,2.5,4.0,5.5,Median to p75,67.0,297.48,29.48,0.0,2,3.4,Prairie National Bank
+Prairie National Bank,250501,ACH File Transmission,ACH FILE TRANSMISSION,Per file,19.0,19.0,5.0,10.0,15.0,Above p75,364.0,6916.0,3276.0,1456.0,3,11.67,Summit Commercial Bank
+Riverbend Trust Company,250501,ACH File Transmission,ACH FILE TRANS,Per file,12.54,12.54,5.0,10.0,15.0,Median to p75,26.0,326.04,66.04,0.0,3,11.67,Summit Commercial Bank
+Summit Commercial Bank,250501,ACH File Transmission,PayStream File Upload,Per file,11.67,11.67,5.0,10.0,15.0,Median to p75,73.0,851.91,121.91,0.0,3,11.67,Summit Commercial Bank
+Prairie National Bank,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,Per account per month,19.05,19.05,15.0,25.0,35.0,p25 to median,24.0,457.2,0.0,0.0,1,19.05,Prairie National Bank
+Prairie National Bank,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,Per account per month,35.49,35.49,25.0,40.0,55.0,p25 to median,12.0,425.88,0.0,0.0,1,35.49,Prairie National Bank
+Prairie National Bank,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,Per item,12.76,11.29,10.0,15.0,20.0,p25 to median,2582.0,32946.32,0.0,0.0,3,12.76,Prairie National Bank
+Riverbend Trust Company,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,Per item,14.410000000000002,14.410000000000002,10.0,15.0,20.0,p25 to median,300.0,4323.0,0.0,0.0,3,12.76,Prairie National Bank
+Summit Commercial Bank,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,Per item,30.0,30.0,10.0,15.0,20.0,Above p75,227.0,6810.0,3405.0,2270.0,3,12.76,Prairie National Bank
+Prairie National Bank,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,Per item,13.87,11.78,8.0,12.0,16.0,Median to p75,1099.0,15243.13,2055.13,0.0,3,10.93,Riverbend Trust Company
+Riverbend Trust Company,350300,Incoming Domestic Wire,INC DOM WIRE,Per item,10.93,10.93,8.0,12.0,16.0,p25 to median,113.0,1235.09,0.0,0.0,3,10.93,Riverbend Trust Company
+Summit Commercial Bank,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,Per item,13.690000000000001,13.690000000000001,8.0,12.0,16.0,Median to p75,556.0,7611.64,939.64,0.0,3,10.93,Riverbend Trust Company
+Prairie National Bank,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,Per item,32.68,32.68,25.0,35.0,45.0,p25 to median,253.0,8268.04,0.0,0.0,1,32.68,Prairie National Bank
+Prairie National Bank,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,Per account per month,94.11,94.11,50.0,100.0,150.0,p25 to median,12.0,1129.32,0.0,0.0,3,94.11,Prairie National Bank
+Riverbend Trust Company,400000,Online Banking Monthly Base,OLB MO BASE,Per account per month,116.19,116.19,50.0,100.0,150.0,Median to p75,12.0,1394.28,194.28,0.0,3,94.11,Prairie National Bank
+Summit Commercial Bank,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,Per account per month,195.0,195.0,50.0,100.0,150.0,Above p75,12.0,2340.0,1140.0,540.0,3,94.11,Prairie National Bank
+Prairie National Bank,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,Per item,0.077,0.066,0.05,0.08,0.11,p25 to median,90440.0,6963.88,0.0,0.0,3,0.065,Riverbend Trust Company
+Riverbend Trust Company,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,Per item,0.065,0.065,0.05,0.08,0.11,p25 to median,5135.0,333.78,0.0,0.0,3,0.065,Riverbend Trust Company
+Summit Commercial Bank,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,Per item,0.085,0.085,0.05,0.08,0.11,Median to p75,18936.0,1609.56,94.68,0.0,3,0.065,Riverbend Trust Company
+Prairie National Bank,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,Per account per month,76.84,76.84,50.0,75.0,100.0,Median to p75,12.0,922.08,22.08,0.0,2,65.0,Riverbend Trust Company
+Riverbend Trust Company,400200,Intraday Reporting Module,INTRADAY RPT MOD,Per account per month,65.0,65.0,50.0,75.0,100.0,p25 to median,24.0,1560.0,0.0,0.0,2,65.0,Riverbend Trust Company

@@ -1,0 +1,732 @@
+bank,statement_month,family_code,family_name,afp_code,afp_description,bank_description,volume,total_charge,ecr_eligible_fees,non_offsettable_fees
+Prairie National Bank,2025-10-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,3946.87,363.11,363.11,0.0
+Prairie National Bank,2025-10-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2025-10-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2025-10-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2025-10-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2025-10-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2025-10-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,98.0,9.31,9.31,0.0
+Prairie National Bank,2025-10-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,777.0,90.13,90.13,0.0
+Prairie National Bank,2025-10-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3711.0,556.65,556.65,0.0
+Prairie National Bank,2025-10-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,2.0,72.0,72.0,0.0
+Prairie National Bank,2025-10-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3711.0,96.48,96.48,0.0
+Prairie National Bank,2025-10-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2025-10-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3711.0,155.86,155.86,0.0
+Prairie National Bank,2025-10-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2025-10-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,7598.0,569.85,569.85,0.0
+Prairie National Bank,2025-10-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1686.0,30.35,30.35,0.0
+Prairie National Bank,2025-10-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,2864.0,280.68,280.68,0.0
+Prairie National Bank,2025-10-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,12.0,40.8,40.8,0.0
+Prairie National Bank,2025-10-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,26.0,494.0,494.0,0.0
+Prairie National Bank,2025-10-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2025-10-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2025-10-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,208.0,2348.32,2348.32,0.0
+Prairie National Bank,2025-10-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,87.0,1024.86,1024.86,0.0
+Prairie National Bank,2025-10-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,19.0,620.92,620.92,0.0
+Prairie National Bank,2025-10-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2025-10-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7158.0,472.44,472.44,0.0
+Prairie National Bank,2025-10-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2025-11-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4245.91,390.62,390.62,0.0
+Prairie National Bank,2025-11-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2025-11-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2025-11-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2025-11-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2025-11-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2025-11-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,119.0,11.3,11.3,0.0
+Prairie National Bank,2025-11-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,808.0,93.73,93.73,0.0
+Prairie National Bank,2025-11-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3807.0,571.05,571.05,0.0
+Prairie National Bank,2025-11-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,2.0,72.0,72.0,0.0
+Prairie National Bank,2025-11-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3807.0,98.97,98.97,0.0
+Prairie National Bank,2025-11-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2025-11-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3807.0,159.88,159.88,0.0
+Prairie National Bank,2025-11-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2025-11-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5576.0,418.2,418.2,0.0
+Prairie National Bank,2025-11-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1797.0,32.35,32.35,0.0
+Prairie National Bank,2025-11-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,2975.0,291.55,291.55,0.0
+Prairie National Bank,2025-11-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,9.0,30.6,30.6,0.0
+Prairie National Bank,2025-11-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,25.0,475.0,475.0,0.0
+Prairie National Bank,2025-11-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2025-11-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2025-11-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,415.0,4685.35,4685.35,0.0
+Prairie National Bank,2025-11-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,84.0,989.52,989.52,0.0
+Prairie National Bank,2025-11-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,29.0,947.72,947.72,0.0
+Prairie National Bank,2025-11-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2025-11-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7388.0,487.62,487.62,0.0
+Prairie National Bank,2025-11-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2025-12-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4032.73,371.01,371.01,0.0
+Prairie National Bank,2025-12-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2025-12-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2025-12-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2025-12-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2025-12-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2025-12-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,120.0,11.4,11.4,0.0
+Prairie National Bank,2025-12-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,901.0,104.52,104.52,0.0
+Prairie National Bank,2025-12-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3577.0,536.55,536.55,0.0
+Prairie National Bank,2025-12-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,2.0,72.0,72.0,0.0
+Prairie National Bank,2025-12-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3577.0,93.01,93.01,0.0
+Prairie National Bank,2025-12-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2025-12-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3577.0,150.24,150.24,0.0
+Prairie National Bank,2025-12-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2025-12-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5605.0,616.55,616.55,0.0
+Prairie National Bank,2025-12-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1679.0,30.22,30.22,0.0
+Prairie National Bank,2025-12-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,2966.0,290.67,290.67,0.0
+Prairie National Bank,2025-12-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,5.0,17.0,17.0,0.0
+Prairie National Bank,2025-12-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,32.0,608.0,608.0,0.0
+Prairie National Bank,2025-12-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2025-12-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2025-12-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,205.0,2314.45,2314.45,0.0
+Prairie National Bank,2025-12-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,86.0,1013.08,1013.08,0.0
+Prairie National Bank,2025-12-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,25.0,817.0,817.0,0.0
+Prairie National Bank,2025-12-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2025-12-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7127.0,470.37,470.37,0.0
+Prairie National Bank,2025-12-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-01-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4434.18,407.94,407.94,0.0
+Prairie National Bank,2026-01-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-01-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-01-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2026-01-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-01-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-01-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,125.0,11.88,11.88,0.0
+Prairie National Bank,2026-01-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,847.0,98.25,98.25,0.0
+Prairie National Bank,2026-01-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,4150.0,622.5,622.5,0.0
+Prairie National Bank,2026-01-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,5.0,180.0,180.0,0.0
+Prairie National Bank,2026-01-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,4150.0,107.9,107.9,0.0
+Prairie National Bank,2026-01-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2026-01-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,4150.0,174.29,174.29,0.0
+Prairie National Bank,2026-01-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-01-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5655.0,622.05,622.05,0.0
+Prairie National Bank,2026-01-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1845.0,33.21,33.21,0.0
+Prairie National Bank,2026-01-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,3259.0,319.38,319.38,0.0
+Prairie National Bank,2026-01-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,12.0,40.8,40.8,0.0
+Prairie National Bank,2026-01-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,34.0,646.0,646.0,0.0
+Prairie National Bank,2026-01-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-01-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-01-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,226.0,2551.54,2551.54,0.0
+Prairie National Bank,2026-01-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,76.0,895.28,895.28,0.0
+Prairie National Bank,2026-01-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,28.0,915.04,915.04,0.0
+Prairie National Bank,2026-01-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-01-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,8016.0,529.06,529.06,0.0
+Prairie National Bank,2026-01-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-02-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4682.05,430.75,430.75,0.0
+Prairie National Bank,2026-02-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-02-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-02-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2026-02-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-02-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-02-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,125.0,11.88,11.88,0.0
+Prairie National Bank,2026-02-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,853.0,98.95,98.95,0.0
+Prairie National Bank,2026-02-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,4290.0,643.5,643.5,0.0
+Prairie National Bank,2026-02-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,4290.0,111.54,111.54,0.0
+Prairie National Bank,2026-02-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2026-02-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,4290.0,180.18,180.18,0.0
+Prairie National Bank,2026-02-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-02-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5801.0,638.11,638.11,0.0
+Prairie National Bank,2026-02-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1789.0,32.2,32.2,0.0
+Prairie National Bank,2026-02-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,3249.0,318.4,318.4,0.0
+Prairie National Bank,2026-02-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,8.0,27.2,27.2,0.0
+Prairie National Bank,2026-02-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,31.0,589.0,589.0,0.0
+Prairie National Bank,2026-02-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-02-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-02-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,216.0,2438.64,2438.64,0.0
+Prairie National Bank,2026-02-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,106.0,1248.68,1248.68,0.0
+Prairie National Bank,2026-02-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,18.0,588.24,588.24,0.0
+Prairie National Bank,2026-02-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-02-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,8149.0,537.83,537.83,0.0
+Prairie National Bank,2026-02-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-03-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4228.87,389.06,389.06,0.0
+Prairie National Bank,2026-03-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-03-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-03-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2026-03-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-03-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-03-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,138.0,13.11,13.11,0.0
+Prairie National Bank,2026-03-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,851.0,98.72,98.72,0.0
+Prairie National Bank,2026-03-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,4141.0,621.15,621.15,0.0
+Prairie National Bank,2026-03-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,2.0,72.0,72.0,0.0
+Prairie National Bank,2026-03-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,4141.0,107.67,107.67,0.0
+Prairie National Bank,2026-03-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2026-03-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,4141.0,173.92,173.92,0.0
+Prairie National Bank,2026-03-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-03-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5869.0,440.17,440.17,0.0
+Prairie National Bank,2026-03-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1871.0,33.68,33.68,0.0
+Prairie National Bank,2026-03-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,2797.0,274.11,274.11,0.0
+Prairie National Bank,2026-03-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,15.0,51.0,51.0,0.0
+Prairie National Bank,2026-03-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,24.0,456.0,456.0,0.0
+Prairie National Bank,2026-03-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-03-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-03-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,220.0,2483.8,2483.8,0.0
+Prairie National Bank,2026-03-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,100.0,1178.0,1178.0,0.0
+Prairie National Bank,2026-03-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,18.0,588.24,588.24,0.0
+Prairie National Bank,2026-03-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-03-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7525.0,496.64,496.64,0.0
+Prairie National Bank,2026-03-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-04-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4540.05,417.68,417.68,0.0
+Prairie National Bank,2026-04-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-04-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-04-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2026-04-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-04-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-04-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,117.0,11.12,11.12,0.0
+Prairie National Bank,2026-04-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,939.0,108.92,108.92,0.0
+Prairie National Bank,2026-04-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3982.0,597.3,597.3,0.0
+Prairie National Bank,2026-04-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,4.0,144.0,144.0,0.0
+Prairie National Bank,2026-04-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3982.0,103.54,103.54,0.0
+Prairie National Bank,2026-04-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2026-04-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3982.0,167.25,167.25,0.0
+Prairie National Bank,2026-04-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-04-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5992.0,449.4,449.4,0.0
+Prairie National Bank,2026-04-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1686.0,30.35,30.35,0.0
+Prairie National Bank,2026-04-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,2993.0,293.31,293.31,0.0
+Prairie National Bank,2026-04-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,9.0,30.6,30.6,0.0
+Prairie National Bank,2026-04-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,26.0,494.0,494.0,0.0
+Prairie National Bank,2026-04-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-04-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-04-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,216.0,2438.64,2438.64,0.0
+Prairie National Bank,2026-04-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,104.0,1225.12,1225.12,0.0
+Prairie National Bank,2026-04-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,25.0,817.0,817.0,0.0
+Prairie National Bank,2026-04-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-04-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7565.0,499.27,499.27,0.0
+Prairie National Bank,2026-04-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-05-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4565.16,419.99,419.99,0.0
+Prairie National Bank,2026-05-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-05-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-05-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2026-05-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-05-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-05-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,112.0,10.64,10.64,0.0
+Prairie National Bank,2026-05-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,873.0,101.27,101.27,0.0
+Prairie National Bank,2026-05-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,4252.0,637.8,637.8,0.0
+Prairie National Bank,2026-05-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,2.0,72.0,72.0,0.0
+Prairie National Bank,2026-05-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,4252.0,110.55,110.55,0.0
+Prairie National Bank,2026-05-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2026-05-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,4252.0,178.58,178.58,0.0
+Prairie National Bank,2026-05-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-05-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,7749.0,581.17,581.17,0.0
+Prairie National Bank,2026-05-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1657.0,29.83,29.83,0.0
+Prairie National Bank,2026-05-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,3323.0,325.65,325.65,0.0
+Prairie National Bank,2026-05-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,4.0,13.6,13.6,0.0
+Prairie National Bank,2026-05-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,40.0,760.0,760.0,0.0
+Prairie National Bank,2026-05-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-05-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-05-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,232.0,2619.28,2619.28,0.0
+Prairie National Bank,2026-05-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,91.0,1071.98,1071.98,0.0
+Prairie National Bank,2026-05-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,24.0,784.32,784.32,0.0
+Prairie National Bank,2026-05-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-05-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,8173.0,539.42,539.42,0.0
+Prairie National Bank,2026-05-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-06-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4579.46,421.31,421.31,0.0
+Prairie National Bank,2026-06-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-06-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-06-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,188.55,188.55,0.0
+Prairie National Bank,2026-06-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-06-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-06-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,125.0,11.88,11.88,0.0
+Prairie National Bank,2026-06-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,878.0,101.85,101.85,0.0
+Prairie National Bank,2026-06-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3677.0,551.55,551.55,0.0
+Prairie National Bank,2026-06-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,3.0,108.0,108.0,0.0
+Prairie National Bank,2026-06-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3677.0,95.59,95.59,0.0
+Prairie National Bank,2026-06-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,380.04,380.04,0.0
+Prairie National Bank,2026-06-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3677.0,154.44,154.44,0.0
+Prairie National Bank,2026-06-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-06-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5843.0,438.23,438.23,0.0
+Prairie National Bank,2026-06-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1755.0,31.59,31.59,0.0
+Prairie National Bank,2026-06-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,3120.0,305.76,305.76,0.0
+Prairie National Bank,2026-06-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,13.0,44.2,44.2,0.0
+Prairie National Bank,2026-06-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,39.0,741.0,741.0,0.0
+Prairie National Bank,2026-06-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-06-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-06-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,217.0,2449.93,2449.93,0.0
+Prairie National Bank,2026-06-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,105.0,1236.9,1236.9,0.0
+Prairie National Bank,2026-06-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,16.0,522.88,522.88,0.0
+Prairie National Bank,2026-06-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-06-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7397.0,488.2,488.2,0.0
+Prairie National Bank,2026-06-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-07-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,3975.48,365.74,365.74,0.0
+Prairie National Bank,2026-07-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-07-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-07-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,221.85,221.85,0.0
+Prairie National Bank,2026-07-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-07-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-07-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,109.0,10.36,10.36,0.0
+Prairie National Bank,2026-07-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,815.0,94.54,94.54,0.0
+Prairie National Bank,2026-07-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3789.0,568.35,568.35,0.0
+Prairie National Bank,2026-07-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,4.0,144.0,144.0,0.0
+Prairie National Bank,2026-07-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3789.0,98.51,98.51,0.0
+Prairie National Bank,2026-07-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,444.6,444.6,0.0
+Prairie National Bank,2026-07-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3789.0,159.14,159.14,0.0
+Prairie National Bank,2026-07-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-07-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5631.0,422.33,422.33,0.0
+Prairie National Bank,2026-07-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1687.0,30.37,30.37,0.0
+Prairie National Bank,2026-07-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,3010.0,340.14,340.14,0.0
+Prairie National Bank,2026-07-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,8.0,27.2,27.2,0.0
+Prairie National Bank,2026-07-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,28.0,532.0,532.0,0.0
+Prairie National Bank,2026-07-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-07-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-07-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,206.0,2628.56,2628.56,0.0
+Prairie National Bank,2026-07-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,90.0,1248.3,1248.3,0.0
+Prairie National Bank,2026-07-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,16.0,522.88,522.88,0.0
+Prairie National Bank,2026-07-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-07-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7357.0,566.49,566.49,0.0
+Prairie National Bank,2026-07-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-08-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,4001.34,368.12,368.12,0.0
+Prairie National Bank,2026-08-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-08-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-08-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,221.85,221.85,0.0
+Prairie National Bank,2026-08-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-08-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-08-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,107.0,10.17,10.17,0.0
+Prairie National Bank,2026-08-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,816.0,94.66,94.66,0.0
+Prairie National Bank,2026-08-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3672.0,550.8,550.8,0.0
+Prairie National Bank,2026-08-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,5.0,180.0,180.0,0.0
+Prairie National Bank,2026-08-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3672.0,95.48,95.48,0.0
+Prairie National Bank,2026-08-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,444.6,444.6,0.0
+Prairie National Bank,2026-08-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3672.0,154.22,154.22,0.0
+Prairie National Bank,2026-08-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-08-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5766.0,432.45,432.45,0.0
+Prairie National Bank,2026-08-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1694.0,30.49,30.49,0.0
+Prairie National Bank,2026-08-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,3080.0,348.03,348.03,0.0
+Prairie National Bank,2026-08-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,9.0,30.6,30.6,0.0
+Prairie National Bank,2026-08-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,29.0,551.0,551.0,0.0
+Prairie National Bank,2026-08-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-08-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-08-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,208.0,2654.08,2654.08,0.0
+Prairie National Bank,2026-08-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,97.0,1345.39,1345.39,0.0
+Prairie National Bank,2026-08-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,21.0,686.28,686.28,0.0
+Prairie National Bank,2026-08-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-08-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7326.0,564.11,564.11,0.0
+Prairie National Bank,2026-08-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Prairie National Bank,2026-09-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSESSMENT FEE,3867.07,355.77,355.77,0.0
+Prairie National Bank,2026-09-01,01,General Account Services,010000,Account Maintenance,ACCOUNT MAINTENANCE,2.0,49.46,49.46,0.0
+Prairie National Bank,2026-09-01,01,General Account Services,010020,ZBA Master Account Maintenance,ZBA MASTER ACCOUNT MAINTENANCE,1.0,48.45,48.45,0.0
+Prairie National Bank,2026-09-01,01,General Account Services,010021,ZBA Sub Account Maintenance,ZBA SUB ACCOUNT MAINTENANCE,9.0,221.85,221.85,0.0
+Prairie National Bank,2026-09-01,01,General Account Services,010300,Electronic Statement,ELECTRONIC STATEMENT,12.0,109.68,109.68,0.0
+Prairie National Bank,2026-09-01,01,General Account Services,010411,Relationship Analysis Statement,RELATIONSHIP ANALYSIS STATEMENT,1.0,12.85,12.85,0.0
+Prairie National Bank,2026-09-01,10,Depository Services,100220,Deposited Item On-Us,DEPOSITED ITEM ON-US,109.0,10.36,10.36,0.0
+Prairie National Bank,2026-09-01,10,Depository Services,100224,Deposited Item Transit,DEPOSITED ITEM TRANSIT,805.0,93.38,93.38,0.0
+Prairie National Bank,2026-09-01,15,Paper Disbursement Services,150120,Checks Paid,CHECKS PAID,3681.0,552.15,552.15,0.0
+Prairie National Bank,2026-09-01,15,Paper Disbursement Services,150410,Stop Payment,STOP PAYMENT,5.0,180.0,180.0,0.0
+Prairie National Bank,2026-09-01,15,Paper Disbursement Services,151351,Check Image Capture,CHECK IMAGE CAPTURE,3681.0,95.71,95.71,0.0
+Prairie National Bank,2026-09-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POSITIVE PAY MAINTENANCE,6.0,444.6,444.6,0.0
+Prairie National Bank,2026-09-01,20,Paper Disbursement Reconciliation,200310,ARP Paid and Outstanding Report Item,ARP PAID AND OUTSTANDING ITEM,3681.0,154.59,154.59,0.0
+Prairie National Bank,2026-09-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MODULE MAINTENANCE,5.0,202.55,202.55,0.0
+Prairie National Bank,2026-09-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIGINATED CREDIT ITEM,5693.0,426.97,426.97,0.0
+Prairie National Bank,2026-09-01,25,General ACH Services,250120,ACH Originated Addenda,ACH ORIGINATED ADDENDA,1766.0,31.79,31.79,0.0
+Prairie National Bank,2026-09-01,25,General ACH Services,250201,ACH Received Item,ACH RECEIVED ITEM,3044.0,343.96,343.96,0.0
+Prairie National Bank,2026-09-01,25,General ACH Services,250302,ACH Return Item,ACH RETURN ITEM,4.0,13.6,13.6,0.0
+Prairie National Bank,2026-09-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANSMISSION,33.0,627.0,627.0,0.0
+Prairie National Bank,2026-09-01,25,General ACH Services,251050,ACH Debit Block/Filter Maintenance,ACH DEBIT BLOCK MAINTENANCE,2.0,38.1,38.1,0.0
+Prairie National Bank,2026-09-01,35,Wire and Other Funds Transfer,350000,Wire Module Maintenance,WIRE MODULE MAINTENANCE,1.0,35.49,35.49,0.0
+Prairie National Bank,2026-09-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUTGOING DOMESTIC WIRE - ONLINE,200.0,2552.0,2552.0,0.0
+Prairie National Bank,2026-09-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INCOMING DOMESTIC WIRE,73.0,1012.51,1012.51,0.0
+Prairie National Bank,2026-09-01,35,Wire and Other Funds Transfer,350400,Outgoing International Wire,OUTGOING INTERNATIONAL WIRE,14.0,457.52,457.52,0.0
+Prairie National Bank,2026-09-01,40,Information Services,400000,Online Banking Monthly Base,ONLINE BANKING MONTHLY BASE,1.0,94.11,94.11,0.0
+Prairie National Bank,2026-09-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PRIOR DAY DETAIL ITEM,7259.0,558.94,558.94,0.0
+Prairie National Bank,2026-09-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY REPORTING MODULE,1.0,76.84,76.84,0.0
+Riverbend Trust Company,2025-10-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,839.18,66.3,0.0,66.3
+Riverbend Trust Company,2025-10-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2025-10-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2025-10-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2025-10-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,45.0,5.94,5.94,0.0
+Riverbend Trust Company,2025-10-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,360.0,63.72,63.72,0.0
+Riverbend Trust Company,2025-10-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,360.0,18.36,18.36,0.0
+Riverbend Trust Company,2025-10-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2025-10-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2025-10-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,52.0,6.34,6.34,0.0
+Riverbend Trust Company,2025-10-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,3.0,37.62,37.62,0.0
+Riverbend Trust Company,2025-10-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,29.0,417.89,417.89,0.0
+Riverbend Trust Company,2025-10-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,16.0,174.88,174.88,0.0
+Riverbend Trust Company,2025-10-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2025-10-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,429.0,27.89,27.89,0.0
+Riverbend Trust Company,2025-10-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2025-11-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,716.25,56.58,0.0,56.58
+Riverbend Trust Company,2025-11-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2025-11-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2025-11-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2025-11-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,42.0,5.54,5.54,0.0
+Riverbend Trust Company,2025-11-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,372.0,65.84,65.84,0.0
+Riverbend Trust Company,2025-11-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,372.0,18.97,18.97,0.0
+Riverbend Trust Company,2025-11-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2025-11-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2025-11-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,62.0,7.56,7.56,0.0
+Riverbend Trust Company,2025-11-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2025-11-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,21.0,302.61,302.61,0.0
+Riverbend Trust Company,2025-11-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,4.0,43.72,43.72,0.0
+Riverbend Trust Company,2025-11-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2025-11-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,420.0,27.3,27.3,0.0
+Riverbend Trust Company,2025-11-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2025-12-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,792.03,62.57,0.0,62.57
+Riverbend Trust Company,2025-12-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2025-12-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2025-12-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2025-12-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,38.0,5.02,5.02,0.0
+Riverbend Trust Company,2025-12-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,377.0,66.73,66.73,0.0
+Riverbend Trust Company,2025-12-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,377.0,19.23,19.23,0.0
+Riverbend Trust Company,2025-12-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2025-12-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2025-12-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,78.0,9.52,9.52,0.0
+Riverbend Trust Company,2025-12-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2025-12-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,33.0,475.53,475.53,0.0
+Riverbend Trust Company,2025-12-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,4.0,43.72,43.72,0.0
+Riverbend Trust Company,2025-12-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2025-12-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,437.0,28.4,28.4,0.0
+Riverbend Trust Company,2025-12-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-01-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,659.14,52.07,0.0,52.07
+Riverbend Trust Company,2026-01-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-01-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-01-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-01-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,44.0,5.81,5.81,0.0
+Riverbend Trust Company,2026-01-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,403.0,71.33,71.33,0.0
+Riverbend Trust Company,2026-01-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,403.0,20.55,20.55,0.0
+Riverbend Trust Company,2026-01-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-01-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-01-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,67.0,8.17,8.17,0.0
+Riverbend Trust Company,2026-01-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-01-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,12.0,172.92,172.92,0.0
+Riverbend Trust Company,2026-01-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,8.0,87.44,87.44,0.0
+Riverbend Trust Company,2026-01-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-01-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,446.0,28.99,28.99,0.0
+Riverbend Trust Company,2026-01-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-02-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,856.8,67.69,0.0,67.69
+Riverbend Trust Company,2026-02-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-02-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-02-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-02-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,43.0,5.68,5.68,0.0
+Riverbend Trust Company,2026-02-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,384.0,67.97,67.97,0.0
+Riverbend Trust Company,2026-02-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,384.0,19.58,19.58,0.0
+Riverbend Trust Company,2026-02-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-02-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-02-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,49.0,5.98,5.98,0.0
+Riverbend Trust Company,2026-02-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-02-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,23.0,331.43,331.43,0.0
+Riverbend Trust Company,2026-02-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,11.0,120.23,120.23,0.0
+Riverbend Trust Company,2026-02-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-02-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,441.0,28.66,28.66,0.0
+Riverbend Trust Company,2026-02-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-03-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,823.93,65.09,0.0,65.09
+Riverbend Trust Company,2026-03-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-03-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-03-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-03-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,47.0,6.2,6.2,0.0
+Riverbend Trust Company,2026-03-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,381.0,67.44,67.44,0.0
+Riverbend Trust Company,2026-03-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,381.0,19.43,19.43,0.0
+Riverbend Trust Company,2026-03-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-03-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-03-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,64.0,7.81,7.81,0.0
+Riverbend Trust Company,2026-03-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-03-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,32.0,461.12,461.12,0.0
+Riverbend Trust Company,2026-03-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,6.0,65.58,65.58,0.0
+Riverbend Trust Company,2026-03-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-03-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,442.0,28.73,28.73,0.0
+Riverbend Trust Company,2026-03-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-04-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,789.64,62.38,0.0,62.38
+Riverbend Trust Company,2026-04-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-04-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-04-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-04-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,50.0,6.6,6.6,0.0
+Riverbend Trust Company,2026-04-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,382.0,67.61,67.61,0.0
+Riverbend Trust Company,2026-04-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,382.0,19.48,19.48,0.0
+Riverbend Trust Company,2026-04-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-04-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-04-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,71.0,8.66,8.66,0.0
+Riverbend Trust Company,2026-04-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-04-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,21.0,302.61,302.61,0.0
+Riverbend Trust Company,2026-04-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,11.0,120.23,120.23,0.0
+Riverbend Trust Company,2026-04-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-04-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,437.0,28.4,28.4,0.0
+Riverbend Trust Company,2026-04-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-05-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,822.04,64.94,0.0,64.94
+Riverbend Trust Company,2026-05-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-05-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-05-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-05-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,47.0,6.2,6.2,0.0
+Riverbend Trust Company,2026-05-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,371.0,65.67,65.67,0.0
+Riverbend Trust Company,2026-05-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,371.0,18.92,18.92,0.0
+Riverbend Trust Company,2026-05-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-05-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-05-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,69.0,8.42,8.42,0.0
+Riverbend Trust Company,2026-05-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,3.0,37.62,37.62,0.0
+Riverbend Trust Company,2026-05-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,29.0,417.89,417.89,0.0
+Riverbend Trust Company,2026-05-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,8.0,87.44,87.44,0.0
+Riverbend Trust Company,2026-05-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-05-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,432.0,28.08,28.08,0.0
+Riverbend Trust Company,2026-05-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-06-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,865.17,68.35,0.0,68.35
+Riverbend Trust Company,2026-06-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-06-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-06-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-06-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,39.0,5.15,5.15,0.0
+Riverbend Trust Company,2026-06-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,413.0,73.1,73.1,0.0
+Riverbend Trust Company,2026-06-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,413.0,21.06,21.06,0.0
+Riverbend Trust Company,2026-06-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-06-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-06-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,72.0,8.78,8.78,0.0
+Riverbend Trust Company,2026-06-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-06-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,32.0,461.12,461.12,0.0
+Riverbend Trust Company,2026-06-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,10.0,109.3,109.3,0.0
+Riverbend Trust Company,2026-06-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-06-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,478.0,31.07,31.07,0.0
+Riverbend Trust Company,2026-06-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-07-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,763.16,60.29,0.0,60.29
+Riverbend Trust Company,2026-07-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-07-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-07-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-07-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,41.0,5.41,5.41,0.0
+Riverbend Trust Company,2026-07-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,343.0,60.71,60.71,0.0
+Riverbend Trust Company,2026-07-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,343.0,17.49,17.49,0.0
+Riverbend Trust Company,2026-07-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-07-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-07-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,57.0,6.95,6.95,0.0
+Riverbend Trust Company,2026-07-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-07-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,20.0,288.2,288.2,0.0
+Riverbend Trust Company,2026-07-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,16.0,174.88,174.88,0.0
+Riverbend Trust Company,2026-07-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-07-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,402.0,26.13,26.13,0.0
+Riverbend Trust Company,2026-07-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-08-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,814.57,64.35,0.0,64.35
+Riverbend Trust Company,2026-08-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-08-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-08-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-08-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,49.0,6.47,6.47,0.0
+Riverbend Trust Company,2026-08-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,326.0,57.7,57.7,0.0
+Riverbend Trust Company,2026-08-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,326.0,16.63,16.63,0.0
+Riverbend Trust Company,2026-08-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-08-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-08-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,58.0,7.08,7.08,0.0
+Riverbend Trust Company,2026-08-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-08-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,31.0,446.71,446.71,0.0
+Riverbend Trust Company,2026-08-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,11.0,120.23,120.23,0.0
+Riverbend Trust Company,2026-08-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-08-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,391.0,25.41,25.41,0.0
+Riverbend Trust Company,2026-08-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Riverbend Trust Company,2026-09-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC ASSMT,712.89,56.32,0.0,56.32
+Riverbend Trust Company,2026-09-01,01,General Account Services,010000,Account Maintenance,ACCT MAINT,5.0,225.0,225.0,0.0
+Riverbend Trust Company,2026-09-01,01,General Account Services,010300,Electronic Statement,ELEC STMT,5.0,37.35,37.35,0.0
+Riverbend Trust Company,2026-09-01,01,General Account Services,010411,Relationship Analysis Statement,REL ANLYS STMT,1.0,20.14,20.14,0.0
+Riverbend Trust Company,2026-09-01,10,Depository Services,100224,Deposited Item Transit,DEP ITM TRNST,45.0,5.94,5.94,0.0
+Riverbend Trust Company,2026-09-01,15,Paper Disbursement Services,150120,Checks Paid,CHKS PD,332.0,58.76,58.76,0.0
+Riverbend Trust Company,2026-09-01,15,Paper Disbursement Services,151351,Check Image Capture,CHK IMG CAPT,332.0,16.93,16.93,0.0
+Riverbend Trust Company,2026-09-01,20,Paper Disbursement Reconciliation,200010,Positive Pay Maintenance,POS PAY MAINT,2.0,167.52,167.52,0.0
+Riverbend Trust Company,2026-09-01,25,General ACH Services,250000,ACH Module Maintenance,ACH MOD MAINT,2.0,73.06,73.06,0.0
+Riverbend Trust Company,2026-09-01,25,General ACH Services,250101,ACH Originated Credit,ACH ORIG CR ITM,44.0,5.37,5.37,0.0
+Riverbend Trust Company,2026-09-01,25,General ACH Services,250501,ACH File Transmission,ACH FILE TRANS,2.0,25.08,25.08,0.0
+Riverbend Trust Company,2026-09-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,OUT DOM WIRE ONL,17.0,244.97,244.97,0.0
+Riverbend Trust Company,2026-09-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,INC DOM WIRE,8.0,87.44,87.44,0.0
+Riverbend Trust Company,2026-09-01,40,Information Services,400000,Online Banking Monthly Base,OLB MO BASE,1.0,116.19,116.19,0.0
+Riverbend Trust Company,2026-09-01,40,Information Services,400011,BAI Prior-Day Detail Item,BAI PD DTL ITM,380.0,24.7,24.7,0.0
+Riverbend Trust Company,2026-09-01,40,Information Services,400200,Intraday Reporting Module,INTRADAY RPT MOD,2.0,130.0,130.0,0.0
+Summit Commercial Bank,2025-10-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,32231.56,3319.85,3319.85,0.0
+Summit Commercial Bank,2025-10-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2025-10-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2025-10-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2025-10-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2025-10-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3398.0,1970.84,1970.84,0.0
+Summit Commercial Bank,2025-10-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3398.0,339.8,339.8,0.0
+Summit Commercial Bank,2025-10-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,48.0,5.09,5.09,0.0
+Summit Commercial Bank,2025-10-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,194.0,28.13,28.13,0.0
+Summit Commercial Bank,2025-10-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2025-10-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,57.0,7.7,7.7,0.0
+Summit Commercial Bank,2025-10-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1463.0,263.34,263.34,0.0
+Summit Commercial Bank,2025-10-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,2.0,8.88,8.88,0.0
+Summit Commercial Bank,2025-10-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,3.0,35.01,35.01,0.0
+Summit Commercial Bank,2025-10-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,19.0,570.0,570.0,0.0
+Summit Commercial Bank,2025-10-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,54.0,739.26,739.26,0.0
+Summit Commercial Bank,2025-10-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2025-10-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1625.0,138.11,138.11,0.0
+Summit Commercial Bank,2025-11-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,33664.05,3467.4,3467.4,0.0
+Summit Commercial Bank,2025-11-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2025-11-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2025-11-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2025-11-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2025-11-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3269.0,1896.02,1896.02,0.0
+Summit Commercial Bank,2025-11-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3269.0,326.9,326.9,0.0
+Summit Commercial Bank,2025-11-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,53.0,5.62,5.62,0.0
+Summit Commercial Bank,2025-11-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,176.0,25.52,25.52,0.0
+Summit Commercial Bank,2025-11-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2025-11-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,37.0,5.0,5.0,0.0
+Summit Commercial Bank,2025-11-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1279.0,230.22,230.22,0.0
+Summit Commercial Bank,2025-11-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,7.0,31.08,31.08,0.0
+Summit Commercial Bank,2025-11-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,5.0,58.35,58.35,0.0
+Summit Commercial Bank,2025-11-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,20.0,600.0,600.0,0.0
+Summit Commercial Bank,2025-11-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,46.0,629.74,629.74,0.0
+Summit Commercial Bank,2025-11-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2025-11-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1441.0,122.49,122.49,0.0
+Summit Commercial Bank,2025-12-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,33321.56,3432.12,3432.12,0.0
+Summit Commercial Bank,2025-12-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2025-12-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2025-12-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2025-12-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2025-12-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3681.0,2134.98,2134.98,0.0
+Summit Commercial Bank,2025-12-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3681.0,368.1,368.1,0.0
+Summit Commercial Bank,2025-12-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,41.0,4.35,4.35,0.0
+Summit Commercial Bank,2025-12-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,184.0,26.68,26.68,0.0
+Summit Commercial Bank,2025-12-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2025-12-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,40.0,5.4,5.4,0.0
+Summit Commercial Bank,2025-12-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1390.0,250.2,250.2,0.0
+Summit Commercial Bank,2025-12-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,9.0,39.96,39.96,0.0
+Summit Commercial Bank,2025-12-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,8.0,93.36,93.36,0.0
+Summit Commercial Bank,2025-12-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,23.0,690.0,690.0,0.0
+Summit Commercial Bank,2025-12-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,54.0,739.26,739.26,0.0
+Summit Commercial Bank,2025-12-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2025-12-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1568.0,133.26,133.26,0.0
+Summit Commercial Bank,2026-01-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,35432.55,3649.55,3649.55,0.0
+Summit Commercial Bank,2026-01-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-01-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-01-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-01-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-01-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3543.0,2054.94,2054.94,0.0
+Summit Commercial Bank,2026-01-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3543.0,354.3,354.3,0.0
+Summit Commercial Bank,2026-01-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,33.0,3.5,3.5,0.0
+Summit Commercial Bank,2026-01-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,201.0,29.14,29.14,0.0
+Summit Commercial Bank,2026-01-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-01-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,69.0,9.32,9.32,0.0
+Summit Commercial Bank,2026-01-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1512.0,272.16,272.16,0.0
+Summit Commercial Bank,2026-01-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,5.0,22.2,22.2,0.0
+Summit Commercial Bank,2026-01-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,5.0,58.35,58.35,0.0
+Summit Commercial Bank,2026-01-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,25.0,750.0,750.0,0.0
+Summit Commercial Bank,2026-01-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,43.0,588.67,588.67,0.0
+Summit Commercial Bank,2026-01-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-01-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1674.0,142.28,142.28,0.0
+Summit Commercial Bank,2026-02-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,36452.85,3754.64,3754.64,0.0
+Summit Commercial Bank,2026-02-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-02-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-02-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-02-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-02-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3745.0,2272.1,2272.1,0.0
+Summit Commercial Bank,2026-02-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3745.0,374.5,374.5,0.0
+Summit Commercial Bank,2026-02-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,34.0,3.6,3.6,0.0
+Summit Commercial Bank,2026-02-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,190.0,27.55,27.55,0.0
+Summit Commercial Bank,2026-02-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-02-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,53.0,7.16,7.16,0.0
+Summit Commercial Bank,2026-02-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1424.0,256.32,256.32,0.0
+Summit Commercial Bank,2026-02-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,4.0,17.76,17.76,0.0
+Summit Commercial Bank,2026-02-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,6.0,70.02,70.02,0.0
+Summit Commercial Bank,2026-02-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,10.0,300.0,300.0,0.0
+Summit Commercial Bank,2026-02-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,59.0,807.71,807.71,0.0
+Summit Commercial Bank,2026-02-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-02-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1587.0,134.88,134.88,0.0
+Summit Commercial Bank,2026-03-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,37043.19,3815.45,3815.45,0.0
+Summit Commercial Bank,2026-03-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-03-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-03-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-03-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-03-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3891.0,2256.78,2256.78,0.0
+Summit Commercial Bank,2026-03-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3891.0,389.1,389.1,0.0
+Summit Commercial Bank,2026-03-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,47.0,4.98,4.98,0.0
+Summit Commercial Bank,2026-03-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,183.0,26.53,26.53,0.0
+Summit Commercial Bank,2026-03-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-03-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,44.0,5.94,5.94,0.0
+Summit Commercial Bank,2026-03-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1488.0,267.84,267.84,0.0
+Summit Commercial Bank,2026-03-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,5.0,22.2,22.2,0.0
+Summit Commercial Bank,2026-03-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,6.0,70.02,70.02,0.0
+Summit Commercial Bank,2026-03-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,21.0,630.0,630.0,0.0
+Summit Commercial Bank,2026-03-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,53.0,725.57,725.57,0.0
+Summit Commercial Bank,2026-03-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-03-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1657.0,140.83,140.83,0.0
+Summit Commercial Bank,2026-04-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,38097.86,3924.08,3924.08,0.0
+Summit Commercial Bank,2026-04-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-04-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-04-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-04-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-04-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3959.0,2296.22,2296.22,0.0
+Summit Commercial Bank,2026-04-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3959.0,395.9,395.9,0.0
+Summit Commercial Bank,2026-04-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,39.0,4.13,4.13,0.0
+Summit Commercial Bank,2026-04-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,158.0,22.91,22.91,0.0
+Summit Commercial Bank,2026-04-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-04-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,42.0,5.67,5.67,0.0
+Summit Commercial Bank,2026-04-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1371.0,246.78,246.78,0.0
+Summit Commercial Bank,2026-04-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,4.0,17.76,17.76,0.0
+Summit Commercial Bank,2026-04-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,4.0,46.68,46.68,0.0
+Summit Commercial Bank,2026-04-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,22.0,660.0,660.0,0.0
+Summit Commercial Bank,2026-04-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,41.0,561.29,561.29,0.0
+Summit Commercial Bank,2026-04-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-04-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1526.0,129.69,129.69,0.0
+Summit Commercial Bank,2026-05-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,37320.37,3844.0,3844.0,0.0
+Summit Commercial Bank,2026-05-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-05-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-05-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-05-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-05-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3658.0,2121.64,2121.64,0.0
+Summit Commercial Bank,2026-05-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3658.0,365.8,365.8,0.0
+Summit Commercial Bank,2026-05-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,41.0,4.35,4.35,0.0
+Summit Commercial Bank,2026-05-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,215.0,31.17,31.17,0.0
+Summit Commercial Bank,2026-05-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-05-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,49.0,6.62,6.62,0.0
+Summit Commercial Bank,2026-05-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1514.0,272.52,272.52,0.0
+Summit Commercial Bank,2026-05-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,9.0,39.96,39.96,0.0
+Summit Commercial Bank,2026-05-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,6.0,70.02,70.02,0.0
+Summit Commercial Bank,2026-05-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,16.0,480.0,480.0,0.0
+Summit Commercial Bank,2026-05-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,39.0,533.91,533.91,0.0
+Summit Commercial Bank,2026-05-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-05-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1668.0,141.77,141.77,0.0
+Summit Commercial Bank,2026-06-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,35252.27,3630.98,3630.98,0.0
+Summit Commercial Bank,2026-06-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-06-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-06-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-06-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-06-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3681.0,2134.98,2134.98,0.0
+Summit Commercial Bank,2026-06-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3681.0,368.1,368.1,0.0
+Summit Commercial Bank,2026-06-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,34.0,3.6,3.6,0.0
+Summit Commercial Bank,2026-06-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,182.0,26.39,26.39,0.0
+Summit Commercial Bank,2026-06-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-06-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,37.0,5.0,5.0,0.0
+Summit Commercial Bank,2026-06-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1429.0,257.22,257.22,0.0
+Summit Commercial Bank,2026-06-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,9.0,39.96,39.96,0.0
+Summit Commercial Bank,2026-06-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,4.0,46.68,46.68,0.0
+Summit Commercial Bank,2026-06-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,16.0,510.0,510.0,0.0
+Summit Commercial Bank,2026-06-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,52.0,711.88,711.88,0.0
+Summit Commercial Bank,2026-06-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-06-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1594.0,135.46,135.46,0.0
+Summit Commercial Bank,2026-07-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,35471.54,3653.57,3653.57,0.0
+Summit Commercial Bank,2026-07-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-07-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-07-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-07-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-07-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3442.0,1996.36,1996.36,0.0
+Summit Commercial Bank,2026-07-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3442.0,344.2,344.2,0.0
+Summit Commercial Bank,2026-07-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,44.0,4.66,4.66,0.0
+Summit Commercial Bank,2026-07-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,212.0,30.74,30.74,0.0
+Summit Commercial Bank,2026-07-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-07-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,35.0,4.73,4.73,0.0
+Summit Commercial Bank,2026-07-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1459.0,262.62,262.62,0.0
+Summit Commercial Bank,2026-07-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,8.0,35.52,35.52,0.0
+Summit Commercial Bank,2026-07-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,9.0,105.03,105.03,0.0
+Summit Commercial Bank,2026-07-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,19.0,570.0,570.0,0.0
+Summit Commercial Bank,2026-07-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,36.0,492.84,492.84,0.0
+Summit Commercial Bank,2026-07-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-07-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1615.0,137.25,137.25,0.0
+Summit Commercial Bank,2026-08-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,32670.42,3365.05,3365.05,0.0
+Summit Commercial Bank,2026-08-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-08-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-08-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-08-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-08-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3414.0,1980.12,1980.12,0.0
+Summit Commercial Bank,2026-08-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3414.0,341.4,341.4,0.0
+Summit Commercial Bank,2026-08-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,42.0,4.45,4.45,0.0
+Summit Commercial Bank,2026-08-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,155.0,22.48,22.48,0.0
+Summit Commercial Bank,2026-08-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-08-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,57.0,7.7,7.7,0.0
+Summit Commercial Bank,2026-08-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1348.0,242.64,242.64,0.0
+Summit Commercial Bank,2026-08-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,2.0,8.88,8.88,0.0
+Summit Commercial Bank,2026-08-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,9.0,105.03,105.03,0.0
+Summit Commercial Bank,2026-08-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,17.0,510.0,510.0,0.0
+Summit Commercial Bank,2026-08-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,39.0,533.91,533.91,0.0
+Summit Commercial Bank,2026-08-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-08-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1499.0,127.41,127.41,0.0
+Summit Commercial Bank,2026-09-01,00,Balance and Compensation Information,000230,FDIC Assessment Fee,FDIC Insurance Recovery Fee,32901.11,3388.81,3388.81,0.0
+Summit Commercial Bank,2026-09-01,01,General Account Services,010000,Account Maintenance,Business Analyzed Checking - Monthly,8.0,264.32,264.32,0.0
+Summit Commercial Bank,2026-09-01,01,General Account Services,010300,Electronic Statement,eStatement Delivery,8.0,108.0,108.0,0.0
+Summit Commercial Bank,2026-09-01,01,General Account Services,010411,Relationship Analysis Statement,Relationship Summary Statement,1.0,21.75,21.75,0.0
+Summit Commercial Bank,2026-09-01,05,Lockbox Services,050000,Wholesale Lockbox Maintenance,LockPoint Wholesale Box - Monthly,3.0,380.91,380.91,0.0
+Summit Commercial Bank,2026-09-01,05,Lockbox Services,050100,Wholesale Lockbox Item Processed,LockPoint Remittance Item,3241.0,1879.78,1879.78,0.0
+Summit Commercial Bank,2026-09-01,05,Lockbox Services,050300,Lockbox Image Capture,SmartVault Item Capture,3241.0,324.1,324.1,0.0
+Summit Commercial Bank,2026-09-01,10,Depository Services,100220,Deposited Item On-Us,Deposit Item - Summit Drawn,41.0,4.35,4.35,0.0
+Summit Commercial Bank,2026-09-01,10,Depository Services,100224,Deposited Item Transit,Deposit Item - Other Bank Drawn,160.0,23.2,23.2,0.0
+Summit Commercial Bank,2026-09-01,25,General ACH Services,250000,ACH Module Maintenance,PayStream Service Base,2.0,100.1,100.1,0.0
+Summit Commercial Bank,2026-09-01,25,General ACH Services,250101,ACH Originated Credit,PayStream Outbound Credit Txn,34.0,4.59,4.59,0.0
+Summit Commercial Bank,2026-09-01,25,General ACH Services,250201,ACH Received Item,PayStream Inbound Item,1328.0,239.04,239.04,0.0
+Summit Commercial Bank,2026-09-01,25,General ACH Services,250302,ACH Return Item,PayStream Return Handling,3.0,13.32,13.32,0.0
+Summit Commercial Bank,2026-09-01,25,General ACH Services,250501,ACH File Transmission,PayStream File Upload,8.0,93.36,93.36,0.0
+Summit Commercial Bank,2026-09-01,35,Wire and Other Funds Transfer,350100,Outgoing Domestic Wire - Online,SwiftLine Outgoing Domestic - Web,19.0,570.0,570.0,0.0
+Summit Commercial Bank,2026-09-01,35,Wire and Other Funds Transfer,350300,Incoming Domestic Wire,SwiftLine Incoming Domestic,40.0,547.6,547.6,0.0
+Summit Commercial Bank,2026-09-01,40,Information Services,400000,Online Banking Monthly Base,InfoLink Portal Access - Monthly,1.0,195.0,195.0,0.0
+Summit Commercial Bank,2026-09-01,40,Information Services,400011,BAI Prior-Day Detail Item,InfoLink Prior-Day Rpt Acct,1482.0,125.95,125.95,0.0
