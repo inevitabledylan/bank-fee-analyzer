@@ -25,5 +25,8 @@ These were agreed during Phase 0 kickoff. Where this file and SPEC.md differ, th
 14. **15–25 services per bank** (not 25–35), so banks look different (e.g., lockbox only at Summit).
 15. **Memo validation:** all dollar figures are pre-formatted in the JSON sent to Claude, which is told to quote them verbatim. The validator checks every `$` figure in the memo against those strings.
 
+16. **Mapping truth file:** `data/raw/_mapping_key.csv` holds the true AFP code for every bank description. Like the answer key, only tests and the accuracy step may read it.
+17. **A7 is about analyzed fees vs. earnings allowance**, not total net service charge. Riverbend's FDIC fee is a hard charge every month, so its net service charge is never zero; the ECR-cut finding is the month-by-month gap between analyzed fees and earnings allowance.
+
 ## Out of scope unless asked
 - Parquet (CSV only), Power BI (Phase 9), SPEC.md §8 stretch goals.

@@ -1,0 +1,62 @@
+bank,bank_service_code,bank_description,afp_code_on_statement,true_afp_code
+Prairie National Bank,PN1010,ZBA MASTER ACCOUNT MAINTENANCE,010020,010020
+Prairie National Bank,PN1025,ZBA SUB ACCOUNT MAINTENANCE,010021,010021
+Prairie National Bank,PN1040,ACCOUNT MAINTENANCE,010000,010000
+Prairie National Bank,PN1055,ELECTRONIC STATEMENT,010300,010300
+Prairie National Bank,PN1070,RELATIONSHIP ANALYSIS STATEMENT,010411,010411
+Prairie National Bank,PN1085,FDIC ASSESSMENT FEE,000230,000230
+Prairie National Bank,PN1100,DEPOSITED ITEM ON-US,100220,100220
+Prairie National Bank,PN1115,DEPOSITED ITEM TRANSIT,100224,100224
+Prairie National Bank,PN1130,CHECKS PAID,150120,150120
+Prairie National Bank,PN1145,STOP PAYMENT,150410,150410
+Prairie National Bank,PN1160,CHECK IMAGE CAPTURE,151351,151351
+Prairie National Bank,PN1175,ARP PAID AND OUTSTANDING ITEM,200310,200310
+Prairie National Bank,PN1190,POSITIVE PAY MAINTENANCE,200010,200010
+Prairie National Bank,PN1205,ACH MODULE MAINTENANCE,250000,250000
+Prairie National Bank,PN1220,ACH ORIGINATED CREDIT ITEM,250101,250101
+Prairie National Bank,PN1235,ACH ORIGINATED ADDENDA,250120,250120
+Prairie National Bank,PN1250,ACH RECEIVED ITEM,250201,250201
+Prairie National Bank,PN1265,ACH RETURN ITEM,250302,250302
+Prairie National Bank,PN1280,ACH DEBIT BLOCK MAINTENANCE,251050,251050
+Prairie National Bank,PN1295,ACH FILE TRANSMISSION,250501,250501
+Prairie National Bank,PN1310,WIRE MODULE MAINTENANCE,350000,350000
+Prairie National Bank,PN1325,OUTGOING DOMESTIC WIRE - ONLINE,350100,350100
+Prairie National Bank,PN1340,INCOMING DOMESTIC WIRE,350300,350300
+Prairie National Bank,PN1355,OUTGOING INTERNATIONAL WIRE,350400,350400
+Prairie National Bank,PN1370,ONLINE BANKING MONTHLY BASE,400000,400000
+Prairie National Bank,PN1385,BAI PRIOR DAY DETAIL ITEM,400011,400011
+Prairie National Bank,PN1400,INTRADAY REPORTING MODULE,400200,400200
+Summit Commercial Bank,SC40100,Business Analyzed Checking - Monthly,010000,010000
+Summit Commercial Bank,SC40213,eStatement Delivery,,010300
+Summit Commercial Bank,SC40326,Relationship Summary Statement,010411,010411
+Summit Commercial Bank,SC40439,FDIC Insurance Recovery Fee,000230,000230
+Summit Commercial Bank,SC40552,LockPoint Wholesale Box - Monthly,,050000
+Summit Commercial Bank,SC40665,LockPoint Remittance Item,,050100
+Summit Commercial Bank,SC40778,SmartVault Item Capture,,050300
+Summit Commercial Bank,SC40891,Deposit Item - Summit Drawn,,100220
+Summit Commercial Bank,SC41004,Deposit Item - Other Bank Drawn,,100224
+Summit Commercial Bank,SC41117,PayStream Service Base,,250000
+Summit Commercial Bank,SC41230,PayStream Outbound Credit Txn,,250101
+Summit Commercial Bank,SC41343,PayStream Inbound Item,,250201
+Summit Commercial Bank,SC41456,PayStream Return Handling,250302,250302
+Summit Commercial Bank,SC41569,PayStream File Upload,250501,250501
+Summit Commercial Bank,SC41682,SwiftLine Outgoing Domestic - Web,,350100
+Summit Commercial Bank,SC41795,SwiftLine Incoming Domestic,350300,350300
+Summit Commercial Bank,SC41908,InfoLink Portal Access - Monthly,,400000
+Summit Commercial Bank,SC42021,InfoLink Prior-Day Rpt Acct,,400011
+Riverbend Trust Company,RB-200,ACCT MAINT,010000,010000
+Riverbend Trust Company,RB-207,ELEC STMT,010300,010300
+Riverbend Trust Company,RB-214,REL ANLYS STMT,010411,010411
+Riverbend Trust Company,RB-221,FDIC ASSMT,000230,000230
+Riverbend Trust Company,RB-228,DEP ITM TRNST,100224,100224
+Riverbend Trust Company,RB-235,CHKS PD,150120,150120
+Riverbend Trust Company,RB-242,CHK IMG CAPT,151351,151351
+Riverbend Trust Company,RB-249,POS PAY MAINT,200010,200010
+Riverbend Trust Company,RB-256,ACH MOD MAINT,250000,250000
+Riverbend Trust Company,RB-263,ACH ORIG CR ITM,250101,250101
+Riverbend Trust Company,RB-270,ACH FILE TRANS,250501,250501
+Riverbend Trust Company,RB-277,OUT DOM WIRE ONL,350100,350100
+Riverbend Trust Company,RB-284,INC DOM WIRE,350300,350300
+Riverbend Trust Company,RB-291,OLB MO BASE,400000,400000
+Riverbend Trust Company,RB-298,BAI PD DTL ITM,400011,400011
+Riverbend Trust Company,RB-305,INTRADAY RPT MOD,400200,400200

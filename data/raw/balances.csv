@@ -1,0 +1,301 @@
+bank,account_id,account_name,statement_month,avg_ledger_balance,avg_collected_balance
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2025-10-01,1578747.84,1530223.08
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2025-10-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2025-10-01,592030.44,573833.65
+Prairie National Bank,PNB-0012,Concentration,2025-10-01,1776091.32,1721500.96
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2025-11-01,1698362.71,1645559.63
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2025-11-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2025-11-01,636886.02,617084.86
+Prairie National Bank,PNB-0012,Concentration,2025-11-01,1910658.05,1851254.58
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2025-12-01,1613093.5,1560198.12
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2025-12-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2025-12-01,604910.06,585074.29
+Prairie National Bank,PNB-0012,Concentration,2025-12-01,1814730.19,1755222.88
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-01-01,1773671.23,1720451.59
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-01-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-01-01,665126.71,645169.34
+Prairie National Bank,PNB-0012,Concentration,2026-01-01,1995380.13,1935508.03
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-02-01,1872820.03,1834995.6
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-02-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-02-01,702307.51,688123.35
+Prairie National Bank,PNB-0012,Concentration,2026-02-01,2106922.53,2064370.04
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-03-01,1691547.43,1648832.95
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-03-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-03-01,634330.29,618312.36
+Prairie National Bank,PNB-0012,Concentration,2026-03-01,1902990.86,1854937.07
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-04-01,1816018.17,1763387.11
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-04-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-04-01,681006.81,661270.17
+Prairie National Bank,PNB-0012,Concentration,2026-04-01,2043020.44,1983810.5
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-05-01,1826062.46,1778476.43
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-05-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-05-01,684773.42,666928.66
+Prairie National Bank,PNB-0012,Concentration,2026-05-01,2054320.27,2000785.98
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-06-01,1831783.22,1758823.85
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-06-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-06-01,686918.71,659558.94
+Prairie National Bank,PNB-0012,Concentration,2026-06-01,2060756.12,1978676.83
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-07-01,1590192.68,1545105.94
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-07-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-07-01,596322.26,579414.73
+Prairie National Bank,PNB-0012,Concentration,2026-07-01,1788966.77,1738244.19
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-08-01,1600536.93,1559878.2
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-08-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-08-01,600201.35,584954.32
+Prairie National Bank,PNB-0012,Concentration,2026-08-01,1800604.05,1754862.97
+Prairie National Bank,PNB-0001,Operating - ZBA Master,2026-09-01,1546829.37,1501147.67
+Prairie National Bank,PNB-0002,ZBA Sub - AP Checks,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0003,ZBA Sub - AP ACH and Wires,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0004,ZBA Sub - Plant 1 Disbursements,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0005,ZBA Sub - Plant 2 Disbursements,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0006,ZBA Sub - Plant 3 Disbursements,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0007,ZBA Sub - Plant 4 Disbursements,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0008,ZBA Sub - Freight and Logistics,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0009,ZBA Sub - Benefits and Insurance,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0010,ZBA Sub - Tax Payments,2026-09-01,0.0,0.0
+Prairie National Bank,PNB-0011,Payroll,2026-09-01,580061.02,562930.38
+Prairie National Bank,PNB-0012,Concentration,2026-09-01,1740183.05,1688791.13
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2025-10-01,644631.28,615537.06
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2025-10-01,644631.28,615537.06
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2025-10-01,644631.28,615537.06
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2025-10-01,7090944.1,6770907.63
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2025-10-01,1289262.56,1231074.11
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2025-10-01,322315.64,307768.53
+Summit Commercial Bank,SCB-0007,Card Settlement,2025-10-01,644631.28,615537.06
+Summit Commercial Bank,SCB-0008,Operating Reserve,2025-10-01,20950516.66,20004954.35
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2025-11-01,673281.02,642088.59
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2025-11-01,673281.02,642088.59
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2025-11-01,673281.02,642088.59
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2025-11-01,7406091.2,7062974.51
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2025-11-01,1346562.04,1284177.18
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2025-11-01,336640.51,321044.3
+Summit Commercial Bank,SCB-0007,Card Settlement,2025-11-01,673281.02,642088.59
+Summit Commercial Bank,SCB-0008,Operating Reserve,2025-11-01,21881633.09,20867879.22
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2025-12-01,666431.27,634312.97
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2025-12-01,666431.27,634312.97
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2025-12-01,666431.27,634312.97
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2025-12-01,7330743.99,6977442.72
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2025-12-01,1332862.54,1268625.95
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2025-12-01,333215.64,317156.49
+Summit Commercial Bank,SCB-0007,Card Settlement,2025-12-01,666431.27,634312.97
+Summit Commercial Bank,SCB-0008,Operating Reserve,2025-12-01,21659016.32,20615171.68
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-01-01,708651.08,676890.31
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-01-01,708651.08,676890.31
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-01-01,708651.08,676890.31
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-01-01,7795161.91,7445793.39
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-01-01,1417302.17,1353780.62
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-01-01,354325.54,338445.15
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-01-01,708651.08,676890.31
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-01-01,23031160.19,21998935.02
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-02-01,729057.04,689339.47
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-02-01,729057.04,689339.47
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-02-01,729057.04,689339.47
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-02-01,8019627.42,7582734.14
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-02-01,1458114.08,1378678.93
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-02-01,364528.52,344669.73
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-02-01,729057.04,689339.47
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-02-01,23694353.75,22403532.68
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-03-01,740863.74,707811.74
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-03-01,740863.74,707811.74
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-03-01,740863.74,707811.74
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-03-01,8149501.16,7785929.18
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-03-01,1481727.48,1415623.49
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-03-01,370431.87,353905.87
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-03-01,740863.74,707811.74
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-03-01,24078071.61,23003881.66
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-04-01,761957.25,727277.32
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-04-01,761957.25,727277.32
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-04-01,761957.25,727277.32
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-04-01,8381529.74,8000050.49
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-04-01,1523914.5,1454554.63
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-04-01,380978.62,363638.66
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-04-01,761957.25,727277.32
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-04-01,24763610.61,23636512.81
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-05-01,746407.31,706670.99
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-05-01,746407.31,706670.99
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-05-01,746407.31,706670.99
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-05-01,8210480.4,7773380.87
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-05-01,1492814.62,1413341.98
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-05-01,373203.65,353335.49
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-05-01,746407.31,706670.99
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-05-01,24258237.53,22966807.1
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-06-01,705045.43,676664.18
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-06-01,705045.43,676664.18
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-06-01,705045.43,676664.18
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-06-01,7755499.74,7443306.0
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-06-01,1410090.86,1353328.36
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-06-01,352522.72,338332.09
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-06-01,705045.43,676664.18
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-06-01,22913976.52,21991585.91
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-07-01,709430.76,672007.55
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-07-01,709430.76,672007.55
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-07-01,709430.76,672007.55
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-07-01,7803738.39,7392083.03
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-07-01,1418861.52,1344015.1
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-07-01,354715.38,336003.77
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-07-01,709430.76,672007.55
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-07-01,23056499.77,21840245.33
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-08-01,653408.46,617839.07
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-08-01,653408.46,617839.07
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-08-01,653408.46,617839.07
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-08-01,7187493.04,6796229.78
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-08-01,1306816.92,1235678.14
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-08-01,326704.23,308919.54
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-08-01,653408.46,617839.07
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-08-01,21235774.88,20079769.82
+Summit Commercial Bank,SCB-0001,Lockbox - East Region Receipts,2026-09-01,658022.29,624327.46
+Summit Commercial Bank,SCB-0002,Lockbox - Central Region Receipts,2026-09-01,658022.29,624327.46
+Summit Commercial Bank,SCB-0003,Lockbox - West Region Receipts,2026-09-01,658022.29,624327.46
+Summit Commercial Bank,SCB-0004,Receivables Concentration,2026-09-01,7238245.15,6867602.05
+Summit Commercial Bank,SCB-0005,Customer ACH Collections,2026-09-01,1316044.57,1248654.92
+Summit Commercial Bank,SCB-0006,Customer Refunds and Rebates,2026-09-01,329011.14,312163.73
+Summit Commercial Bank,SCB-0007,Card Settlement,2026-09-01,658022.29,624327.46
+Summit Commercial Bank,SCB-0008,Operating Reserve,2026-09-01,21385724.3,20290642.43
+Riverbend Trust Company,RTC-0001,Operating - Backup,2025-10-01,461549.33,444817.89
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2025-10-01,100701.67,97051.18
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2025-10-01,209795.15,202189.95
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2025-10-01,58742.64,56613.19
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2025-10-01,8391.81,8087.6
+Riverbend Trust Company,RTC-0001,Operating - Backup,2025-11-01,393938.02,385253.07
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2025-11-01,85950.11,84055.22
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2025-11-01,179062.74,175115.03
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2025-11-01,50137.57,49032.21
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2025-11-01,7162.51,7004.6
+Riverbend Trust Company,RTC-0001,Operating - Backup,2025-12-01,435616.13,426208.25
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2025-12-01,95043.52,92990.89
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2025-12-01,198007.33,193731.02
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2025-12-01,55442.05,54244.69
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2025-12-01,7920.29,7749.24
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-01-01,362527.95,353899.28
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-01-01,79097.01,77214.39
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-01-01,164785.43,160863.31
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-01-01,46139.92,45041.73
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-01-01,6591.42,6434.53
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-02-01,471241.48,458828.9
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-02-01,102816.32,100108.12
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-02-01,214200.67,208558.59
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-02-01,59976.19,58396.41
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-02-01,8568.03,8342.34
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-03-01,453161.45,440960.47
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-03-01,98871.59,96209.56
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-03-01,205982.48,200436.58
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-03-01,57675.09,56122.24
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-03-01,8239.3,8017.46
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-04-01,434304.37,422399.2
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-04-01,94757.32,92159.83
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-04-01,197411.08,191999.64
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-04-01,55275.1,53759.9
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-04-01,7896.44,7679.99
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-05-01,452121.46,436982.37
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-05-01,98644.68,95341.61
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-05-01,205509.76,198628.35
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-05-01,57542.73,55615.94
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-05-01,8220.39,7945.13
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-06-01,475844.16,466327.28
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-06-01,103820.54,101744.13
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-06-01,216292.8,211966.95
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-06-01,60561.98,59350.74
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-06-01,8651.71,8478.68
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-07-01,419740.53,411345.72
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-07-01,91579.75,89748.16
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-07-01,190791.15,186975.33
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-07-01,53421.52,52353.09
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-07-01,7631.65,7479.01
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-08-01,448014.48,437032.4
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-08-01,97748.61,95352.52
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-08-01,203642.95,198651.09
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-08-01,57020.02,55622.31
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-08-01,8145.72,7946.04
+Riverbend Trust Company,RTC-0001,Operating - Backup,2026-09-01,392089.9,379133.8
+Riverbend Trust Company,RTC-0002,Payroll - Backup,2026-09-01,85546.89,82720.1
+Riverbend Trust Company,RTC-0003,Credit Facility - Loan Payments,2026-09-01,178222.68,172333.54
+Riverbend Trust Company,RTC-0004,Escrow - Insurance Collateral,2026-09-01,49902.35,48253.39
+Riverbend Trust Company,RTC-0005,Disbursement - Legacy AP,2026-09-01,7128.91,6893.34

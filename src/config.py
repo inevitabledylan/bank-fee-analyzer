@@ -70,3 +70,12 @@ MATH_ERROR_TOLERANCE = 0.01       # |volume x price - total| above 1 cent
 EXCESS_BALANCE_THRESHOLD = 0.20   # excess balance > 20% of balance required...
 EXCESS_BALANCE_MIN_MONTHS = 3     # ...for 3+ months
 MONTHS_PER_YEAR = 12              # used to annualize run-rate findings
+
+# Unused-service check (DECISIONS.md #6): a monthly module fee is "unused" when
+# none of its related transaction codes show volume on the same account.
+RELATED_ACTIVITY = {
+    "200010": ["150120"],                                         # Positive Pay <- checks paid
+    "250000": ["250100", "250101", "250120", "250201", "250302"], # ACH module <- any ACH items
+    "350000": ["350100", "350300", "350400"],                     # Wire module <- any wires
+    "400200": ["400011"],                                         # Intraday module <- BAI items reported
+}

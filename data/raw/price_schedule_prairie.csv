@@ -1,0 +1,30 @@
+bank,bank_service_code,bank_description,afp_code,unit_basis,price_tier,tier_min_volume,tier_max_volume,unit_price,ecr_eligible,effective_from
+Prairie National Bank,PN1010,ZBA MASTER ACCOUNT MAINTENANCE,010020,Per account per month,,,,48.45,True,2025-10-01
+Prairie National Bank,PN1025,ZBA SUB ACCOUNT MAINTENANCE,010021,Per account per month,,,,20.95,True,2025-10-01
+Prairie National Bank,PN1040,ACCOUNT MAINTENANCE,010000,Per account per month,,,,24.73,True,2025-10-01
+Prairie National Bank,PN1055,ELECTRONIC STATEMENT,010300,Per account per month,,,,9.14,True,2025-10-01
+Prairie National Bank,PN1070,RELATIONSHIP ANALYSIS STATEMENT,010411,Per statement,,,,12.85,True,2025-10-01
+Prairie National Bank,PN1085,FDIC ASSESSMENT FEE,000230,Per $1000 avg balance,,,,0.092,True,2025-10-01
+Prairie National Bank,PN1100,DEPOSITED ITEM ON-US,100220,Per item,,,,0.095,True,2025-10-01
+Prairie National Bank,PN1115,DEPOSITED ITEM TRANSIT,100224,Per item,,,,0.116,True,2025-10-01
+Prairie National Bank,PN1130,CHECKS PAID,150120,Per item,Tier 1,0.0,2500.0,0.19,True,2025-10-01
+Prairie National Bank,PN1130,CHECKS PAID,150120,Per item,Tier 2,2501.0,,0.15,True,2025-10-01
+Prairie National Bank,PN1145,STOP PAYMENT,150410,Per item,,,,36.0,True,2025-10-01
+Prairie National Bank,PN1160,CHECK IMAGE CAPTURE,151351,Per item,,,,0.026,True,2025-10-01
+Prairie National Bank,PN1175,ARP PAID AND OUTSTANDING ITEM,200310,Per item,,,,0.042,True,2025-10-01
+Prairie National Bank,PN1190,POSITIVE PAY MAINTENANCE,200010,Per account per month,,,,63.34,True,2025-10-01
+Prairie National Bank,PN1205,ACH MODULE MAINTENANCE,250000,Per account per month,,,,40.51,True,2025-10-01
+Prairie National Bank,PN1220,ACH ORIGINATED CREDIT ITEM,250101,Per item,Tier 1,0.0,5000.0,0.11,True,2025-10-01
+Prairie National Bank,PN1220,ACH ORIGINATED CREDIT ITEM,250101,Per item,Tier 2,5001.0,,0.075,True,2025-10-01
+Prairie National Bank,PN1235,ACH ORIGINATED ADDENDA,250120,Per item,,,,0.018,True,2025-10-01
+Prairie National Bank,PN1250,ACH RECEIVED ITEM,250201,Per item,,,,0.098,True,2025-10-01
+Prairie National Bank,PN1265,ACH RETURN ITEM,250302,Per item,,,,3.4,True,2025-10-01
+Prairie National Bank,PN1280,ACH DEBIT BLOCK MAINTENANCE,251050,Per account per month,,,,19.05,True,2025-10-01
+Prairie National Bank,PN1295,ACH FILE TRANSMISSION,250501,Per file,,,,19.0,True,2025-10-01
+Prairie National Bank,PN1310,WIRE MODULE MAINTENANCE,350000,Per account per month,,,,35.49,True,2025-10-01
+Prairie National Bank,PN1325,OUTGOING DOMESTIC WIRE - ONLINE,350100,Per item,,,,11.29,True,2025-10-01
+Prairie National Bank,PN1340,INCOMING DOMESTIC WIRE,350300,Per item,,,,11.78,True,2025-10-01
+Prairie National Bank,PN1355,OUTGOING INTERNATIONAL WIRE,350400,Per item,,,,32.68,True,2025-10-01
+Prairie National Bank,PN1370,ONLINE BANKING MONTHLY BASE,400000,Per account per month,,,,94.11,True,2025-10-01
+Prairie National Bank,PN1385,BAI PRIOR DAY DETAIL ITEM,400011,Per item,,,,0.066,True,2025-10-01
+Prairie National Bank,PN1400,INTRADAY REPORTING MODULE,400200,Per account per month,,,,76.84,True,2025-10-01

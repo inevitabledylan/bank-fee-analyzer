@@ -1,0 +1,17 @@
+bank,bank_service_code,bank_description,afp_code,unit_basis,price_tier,tier_min_volume,tier_max_volume,unit_price,ecr_eligible,effective_from
+Riverbend Trust Company,RB-200,ACCT MAINT,010000,Per account per month,,,,45.0,True,2025-10-01
+Riverbend Trust Company,RB-207,ELEC STMT,010300,Per account per month,,,,7.47,True,2025-10-01
+Riverbend Trust Company,RB-214,REL ANLYS STMT,010411,Per statement,,,,20.14,True,2025-10-01
+Riverbend Trust Company,RB-221,FDIC ASSMT,000230,Per $1000 avg balance,,,,0.079,False,2025-10-01
+Riverbend Trust Company,RB-228,DEP ITM TRNST,100224,Per item,,,,0.132,True,2025-10-01
+Riverbend Trust Company,RB-235,CHKS PD,150120,Per item,,,,0.177,True,2025-10-01
+Riverbend Trust Company,RB-242,CHK IMG CAPT,151351,Per item,,,,0.051,True,2025-10-01
+Riverbend Trust Company,RB-249,POS PAY MAINT,200010,Per account per month,,,,83.76,True,2025-10-01
+Riverbend Trust Company,RB-256,ACH MOD MAINT,250000,Per account per month,,,,36.53,True,2025-10-01
+Riverbend Trust Company,RB-263,ACH ORIG CR ITM,250101,Per item,,,,0.122,True,2025-10-01
+Riverbend Trust Company,RB-270,ACH FILE TRANS,250501,Per file,,,,12.54,True,2025-10-01
+Riverbend Trust Company,RB-277,OUT DOM WIRE ONL,350100,Per item,,,,14.41,True,2025-10-01
+Riverbend Trust Company,RB-284,INC DOM WIRE,350300,Per item,,,,10.93,True,2025-10-01
+Riverbend Trust Company,RB-291,OLB MO BASE,400000,Per account per month,,,,116.19,True,2025-10-01
+Riverbend Trust Company,RB-298,BAI PD DTL ITM,400011,Per item,,,,0.065,True,2025-10-01
+Riverbend Trust Company,RB-305,INTRADAY RPT MOD,400200,Per account per month,,,,65.0,True,2025-10-01

@@ -1,0 +1,19 @@
+bank,bank_service_code,bank_description,afp_code,unit_basis,price_tier,tier_min_volume,tier_max_volume,unit_price,ecr_eligible,effective_from
+Summit Commercial Bank,SC40100,Business Analyzed Checking - Monthly,010000,Per account per month,,,,33.04,True,2025-10-01
+Summit Commercial Bank,SC40213,eStatement Delivery,,Per account per month,,,,13.5,True,2025-10-01
+Summit Commercial Bank,SC40326,Relationship Summary Statement,010411,Per statement,,,,21.75,True,2025-10-01
+Summit Commercial Bank,SC40439,FDIC Insurance Recovery Fee,000230,Per $1000 avg balance,,,,0.103,True,2025-10-01
+Summit Commercial Bank,SC40552,LockPoint Wholesale Box - Monthly,,Per lockbox per month,,,,126.97,True,2025-10-01
+Summit Commercial Bank,SC40665,LockPoint Remittance Item,,Per item,,,,0.58,True,2025-10-01
+Summit Commercial Bank,SC40778,SmartVault Item Capture,,Per item,,,,0.1,True,2025-10-01
+Summit Commercial Bank,SC40891,Deposit Item - Summit Drawn,,Per item,,,,0.106,True,2025-10-01
+Summit Commercial Bank,SC41004,Deposit Item - Other Bank Drawn,,Per item,,,,0.145,True,2025-10-01
+Summit Commercial Bank,SC41117,PayStream Service Base,,Per account per month,,,,50.05,True,2025-10-01
+Summit Commercial Bank,SC41230,PayStream Outbound Credit Txn,,Per item,,,,0.135,True,2025-10-01
+Summit Commercial Bank,SC41343,PayStream Inbound Item,,Per item,,,,0.18,True,2025-10-01
+Summit Commercial Bank,SC41456,PayStream Return Handling,250302,Per item,,,,4.44,True,2025-10-01
+Summit Commercial Bank,SC41569,PayStream File Upload,250501,Per file,,,,11.67,True,2025-10-01
+Summit Commercial Bank,SC41682,SwiftLine Outgoing Domestic - Web,,Per item,,,,30.0,True,2025-10-01
+Summit Commercial Bank,SC41795,SwiftLine Incoming Domestic,350300,Per item,,,,13.69,True,2025-10-01
+Summit Commercial Bank,SC41908,InfoLink Portal Access - Monthly,,Per account per month,,,,195.0,True,2025-10-01
+Summit Commercial Bank,SC42021,InfoLink Prior-Day Rpt Acct,,Per item,,,,0.085,True,2025-10-01

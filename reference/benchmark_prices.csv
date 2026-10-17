@@ -1,0 +1,35 @@
+afp_code,afp_description,unit_basis,p25,median,p75,label
+000230,FDIC Assessment Fee,Per $1000 avg balance,0.06,0.09,0.12,Illustrative only - not market data
+010000,Account Maintenance,Per account per month,15.0,25.0,35.0,Illustrative only - not market data
+010020,ZBA Master Account Maintenance,Per account per month,35.0,50.0,65.0,Illustrative only - not market data
+010021,ZBA Sub Account Maintenance,Per account per month,15.0,25.0,35.0,Illustrative only - not market data
+010300,Electronic Statement,Per account per month,5.0,10.0,15.0,Illustrative only - not market data
+010411,Relationship Analysis Statement,Per statement,10.0,20.0,30.0,Illustrative only - not market data
+050000,Wholesale Lockbox Maintenance,Per lockbox per month,75.0,125.0,175.0,Illustrative only - not market data
+050100,Wholesale Lockbox Item Processed,Per item,0.25,0.35,0.45,Illustrative only - not market data
+050300,Lockbox Image Capture,Per item,0.04,0.06,0.08,Illustrative only - not market data
+100000,Commercial Deposit Account Maintenance,Per account per month,10.0,20.0,30.0,Illustrative only - not market data
+100010,Branch Deposited Coin and Currency,Per $100 deposited,0.08,0.12,0.16,Illustrative only - not market data
+100220,Deposited Item On-Us,Per item,0.06,0.1,0.14,Illustrative only - not market data
+100224,Deposited Item Transit,Per item,0.08,0.12,0.16,Illustrative only - not market data
+150120,Checks Paid,Per item,0.12,0.18,0.24,Illustrative only - not market data
+150410,Stop Payment,Per item,18.0,25.0,32.0,Illustrative only - not market data
+151351,Check Image Capture,Per item,0.02,0.04,0.06,Illustrative only - not market data
+200010,Positive Pay Maintenance,Per account per month,50.0,75.0,100.0,Illustrative only - not market data
+200310,ARP Paid and Outstanding Report Item,Per item,0.03,0.05,0.07,Illustrative only - not market data
+250000,ACH Module Maintenance,Per account per month,25.0,40.0,55.0,Illustrative only - not market data
+250100,ACH Originated Debit,Per item,0.06,0.1,0.14,Illustrative only - not market data
+250101,ACH Originated Credit,Per item,0.06,0.1,0.14,Illustrative only - not market data
+250120,ACH Originated Addenda,Per item,0.01,0.02,0.03,Illustrative only - not market data
+250201,ACH Received Item,Per item,0.06,0.1,0.14,Illustrative only - not market data
+250302,ACH Return Item,Per item,2.5,4.0,5.5,Illustrative only - not market data
+250501,ACH File Transmission,Per file,5.0,10.0,15.0,Illustrative only - not market data
+251050,ACH Debit Block/Filter Maintenance,Per account per month,15.0,25.0,35.0,Illustrative only - not market data
+350000,Wire Module Maintenance,Per account per month,25.0,40.0,55.0,Illustrative only - not market data
+350100,Outgoing Domestic Wire - Online,Per item,10.0,15.0,20.0,Illustrative only - not market data
+350300,Incoming Domestic Wire,Per item,8.0,12.0,16.0,Illustrative only - not market data
+350400,Outgoing International Wire,Per item,25.0,35.0,45.0,Illustrative only - not market data
+400000,Online Banking Monthly Base,Per account per month,50.0,100.0,150.0,Illustrative only - not market data
+400011,BAI Prior-Day Detail Item,Per item,0.05,0.08,0.11,Illustrative only - not market data
+400200,Intraday Reporting Module,Per account per month,50.0,75.0,100.0,Illustrative only - not market data
+450020,Investment Sweep Fee,Per account per month,75.0,100.0,150.0,Illustrative only - not market data
